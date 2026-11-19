@@ -3,7 +3,7 @@
 **Question:** can a first-year student find something new in public NASA TESS light curves, using search
 algorithms written out in plain NumPy (no black-box pipelines) so every step can be read and checked?
 
-Faaz Abdulla, BSc (Research) student, Indian Institute of Science, Bengaluru. Semester 1 project (2026).
+Faaz Abdulla Kizhisseri, BSc (Research) student, Indian Institute of Science, Bengaluru. Semester 1 project (2026).
 
 ## Results so far
 
