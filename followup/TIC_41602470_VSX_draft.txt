@@ -1,0 +1,26 @@
+DRAFT VSX submission - for review, NOT submitted
+STATUS: READY FOR REVIEW
+==================================================
+Name:          Gaia DR3 2045635134300357504
+Other IDs:     TIC 41602470; 2MASS J19361353+3311516
+Position:      19:36:13.52 +33:11:51.62 (J2000, Gaia DR3)
+Type:          EA
+Period:        5.459621 d (+- 0.000040)
+Epoch:         HJD 2459524.92147 (+- 0.00726), primary minimum (HJD, UTC)
+Range (r):     14.98 - 15.30 r (ZTF)   min II 15.08 r
+Range (g):     15.63 - 15.98 g (ZTF)   min II 15.74 g
+Eclipse duration: 5.5% of the period (7.2 +- 0.8 h); secondary at phase 0.500
+
+Remarks:
+Detached eclipsing binary; light curve flat between eclipses, secondary at phase 0.50.
+Period from a 0.2-30 d box search of ZTF g and r data (2018-2025), consistent in both
+filters and both ZTF fields.
+Gaia DR3 2045635134323278080 (G = 16.51) lies 1.0" away and is unresolved in ZTF, so the
+magnitudes above include its light (~24% in Gaia G). During primary eclipse the ZTF
+positions shift by +0.067 +- 0.006" toward this companion, as expected if this star is the
+eclipsing one (+0.064" predicted; -0.20" if the companion were eclipsing).
+First noticed in the TESS sector 40 2-min light curve of TIC 41602482 (11.6" away), where
+the eclipses appear diluted to ~0.4% and ~0.2% and agree with the ZTF ephemeris.
+
+Data sources: ZTF public data via IRSA (catflags = 0), accessed 2026-11-14; TESS sector 40
+(SPOC). Positions: Gaia DR3.

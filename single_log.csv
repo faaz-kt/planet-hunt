@@ -1,0 +1,324 @@
+tic,sector,tmag,star_radius,n_points,level,hard_fails,soft_fails,time,duration_hours,depth_ppm,snr,bump_snr,radius_earths,period_guess_days,robust_snrs,sap_ratio,bkg_ratio,wiggle,binary_like,known_as,graph,verdict
+219777669,40,5.91109991,19.03829956,19604,,,,2412.457,2.4,692,3.3,3.2,54.6,0,,,,,,,,nothing found
+1718018400,40,10.86709976,0.36719701,19611,,,,2405.914,4.8,829,3.6,3.6,1.2,136,,,,,,,,nothing found
+394030073,40,8.05150986,9.89025021,19604,,,,2402.995,3.6,1848,3.5,4.1,46.4,0,,,,,,,,nothing found
+165529165,40,8.0466404,2.87168002,19608,,,,2407.478,4.8,244,3.6,3.6,4.9,2,,,,,,,,nothing found
+137216962,40,15.55049992,,19609,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 15.6)
+1883641004,40,17.03750038,,15373,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 17.0)
+160185733,40,10.54199982,2.54032993,19611,,,,2391.392,12.0,3688,6.2,4.4,16.8,45,,,,,,,,nothing found
+320693302,40,8.15540028,34.86399841,19601,,,,2397.46,4.8,1254,8.0,3.6,134.7,0,,,,,,,TIC_320693302_S40_single.png,SUSPICIOUS: too big for a planet; repeats (2 similar dips): use step 2
+219773223,40,14.08380032,0.26163399,19610,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 14.1)
+188780222,40,7.51726007,,19609,,,,2397.104,2.4,458,3.1,3.7,,,,,,,,,,nothing found
+180718195,40,8.76150036,2.69010997,19610,,,,2413.272,7.2,408,5.5,3.9,5.9,9,,,,,,,,nothing found
+288879185,40,8.37779999,34.97140121,19606,,,,2418.751,2.4,1026,6.3,5.5,122.2,0,,,,,,,,nothing found
+356339299,40,11.11970043,1.25642002,19607,,,,2397.854,12.0,838,6.1,3.9,4.0,182,,,,,,,,nothing found
+23390550,40,15.97579956,0.44826201,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 16.0)
+372759279,40,10.84189987,2.34147,19610,,,,2392.641,2.4,233993,6.6,3.2,123.6,0,,,,,,,,nothing found
+320956940,40,9.72999954,2.60653996,19608,,,,2416.814,2.4,28506,28.4,23.9,48.0,0,,,,,,,,nothing found (dip no bigger than the noise bumps)
+451788144,40,8.23340034,1.00125003,19604,,,,2397.375,12.0,891,9.6,5.4,3.3,287,,,,,,,TIC_451788144_S40_single.png,SUSPICIOUS: V-shaped
+371703807,40,9.41637993,2.0883801,19604,,,,2407.641,3.6,356,3.6,3.7,4.3,2,,,,,,,,nothing found
+378089068,40,11.01239967,3.04267001,19611,,,,2408.791,2.4,29825,53.0,30.2,57.3,0,,,,,,,TIC_378089068_S40_single.png,SUSPICIOUS: V-shaped; too big for a planet; repeats (14 similar dips): use step 2
+370304017,40,9.31816006,1.71196997,19611,,,,2417.939,4.8,323,3.0,3.2,3.4,6,,,,,,,,nothing found
+202280308,40,10.1001997,2.76198006,16036,,,,2411.724,12.0,386,5.8,5.1,5.9,38,,,,,,,,nothing found
+135619548,40,8.00419998,32.01750183,19601,,,,2397.69,3.6,818,4.8,3.2,99.9,0,,,,,,,,nothing found
+229762774,40,9.56956005,2.61982989,19611,,,,2397.517,2.4,696,4.4,4.2,7.5,0,,,,,,,,nothing found
+470150930,40,10.56499958,1.10242999,19610,,,,2407.682,4.8,824,4.6,4.5,3.5,15,,,,,,,,nothing found
+406953377,40,11.61559963,1.66454005,14332,,,,2409.436,4.8,3874,6.1,4.7,11.3,7,,,,,,,,nothing found
+112172486,40,8.01515007,1.93069994,19603,,,,2397.25,12.0,179,6.3,3.7,2.8,77,,,,,,,,nothing found
+1686166608,40,17.64179993,,19610,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 17.6)
+289535284,40,10.72770023,0.97461998,19399,,,,2401.766,12.0,558,4.8,3.5,2.5,302,,,,,,,,nothing found
+198181034,40,12.57359982,0.54117602,19610,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.6)
+461522730,40,12.61699963,0.47854099,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.6)
+121022057,40,14.87619972,0.62279701,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 14.9)
+332777067,40,12.77110004,0.57109499,19610,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.8)
+441597553,40,14.2432003,0.177407,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 14.2)
+256298245,40,11.0053997,2.3613801,19610,,,,2408.788,12.0,550,5.5,3.8,6.0,52,,,,,,,,nothing found
+841424790,40,17.63680077,,19608,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 17.6)
+293806469,40,10.44029999,2.5271399,19610,,,,2409.019,3.6,559,3.3,3.3,6.5,1,,,,,,,,nothing found
+357185041,40,16.16020012,,17164,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 16.2)
+462713291,40,14.52369976,0.692442,19607,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 14.5)
+154490761,40,8.07240009,10.37010002,19605,,,,2415.787,12.0,1661,6.4,3.1,46.1,3,,,,,,,,nothing found
+230082687,40,9.78829956,3.43388009,19607,,,,2395.685,9.6,357,5.3,3.4,7.1,12,,,,,,,,nothing found
+1400151144,40,19.49270058,,19608,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 19.5)
+289321783,40,4.47240019,,19611,,,,2411.876,12.0,282,14.0,6.7,,,,,,,,,TIC_289321783_S40_single.png,SUSPICIOUS: V-shaped
+319518503,40,10.17199993,2.53917003,19610,,,,2410.182,3.6,470,3.4,3.6,6.0,1,,,,,,,,nothing found
+314604460,40,9.78660011,0.656425,19610,,,,2399.626,2.4,9071,3.6,3.4,6.8,5,,,,,,,,nothing found
+346664793,40,10.3760004,2.61011004,19561,,,,2397.313,2.4,4489,3.4,6.3,19.1,0,,,,,,,,nothing found
+743750615,40,17.34700012,,17910,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 17.3)
+285299769,40,9.6157999,1.71826005,19609,,,,2400.544,4.8,629,3.5,4.2,4.7,6,,,,,,,,nothing found
+42814193,40,12.05879974,0.28110099,17737,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.1)
+230125740,40,9.92300034,0.86694902,19611,,,,2393.081,12.0,197,4.3,3.6,1.3,382,,,,,,,,nothing found
+233656965,40,12.86750031,0.42012,19610,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.9)
+441798979,40,12.0927,0.67496198,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 12.1)
+219776919,40,9.96741009,2.5395,19610,,,,2398.186,12.0,5672,4.3,3.5,20.9,45,,,,,,,,nothing found
+166410969,40,5.41695023,116.47899628,19502,,,,2397.671,4.8,902,15.5,7.8,381.6,0,,,,,,,TIC_166410969_S40_single.png,SUSPICIOUS: too big for a planet
+349225426,40,11.94859982,0.28440899,19604,,,,2406.313,2.4,5849,4.6,6.5,2.4,28,,,,,,,,nothing found
+376849336,40,9.40550041,1.05974996,19610,,,,2391.163,9.6,279,4.8,3.7,1.9,131,,,,,,,,nothing found
+229945268,40,10.85249996,1.97641003,19610,,,,2406.393,7.2,767,4.8,4.1,6.0,16,,,,,,,,nothing found
+232602578,40,10.42850018,2.17069006,19608,,,,2393.936,2.4,719,3.8,3.7,6.3,0,,,,,,,,nothing found
+229742371,40,10.22039986,0.81137103,19610,,,,2391.309,12.0,505,8.0,3.7,2.0,436,,,,,,,TIC_229742371_S40_single.png,PASSES the basic tests
+232605099,40,16.3885994,,19609,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 16.4)
+1551307366,40,18.51449966,,19609,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 18.5)
+159073031,40,8.76780033,9.84288025,19608,,,,2401.793,12.0,786,3.7,3.1,30.1,3,,,,,,,,nothing found
+841331201,40,20.28050041,,19611,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 20.3)
+1856552732,40,18.69330025,,18160,,,,,,,,,,,,,,,,,,skipped: too faint (Tmag 18.7)
+353871287,40,7.4265399,4.22584009,19607,,,,2418.749,2.4,1093,6.3,3.0,15.2,0,,,,,,,,nothing found
+237106030,40,8.28931999,2.39591002,19603,,,,2395.747,2.4,234,3.2,3.3,4.0,0,,,,,,,,nothing found
+288162249,40,9.33390045,2.47790003,19610,,,,2394.559,3.6,344,3.6,4.5,5.0,1,,,,,,,,nothing found
+287261241,40,5.31704998,41.96350098,19563,,,,2394.268,2.4,319,4.4,3.0,81.7,0,,,,,,,,nothing found
+26483194,40,9.57651997,2.25216007,15369,,,,2391.269,2.4,546,3.3,2.9,5.7,0,,,,,,,,nothing found
+198412165,40,11.37010002,0.63677597,19609,,,,2395.374,3.6,1085,4.0,3.3,2.3,19,,,,,,,,nothing found
+198213399,40,11.92660046,0.51542002,19610,,,,2405.477,3.6,2159,4.1,3.5,2.6,29,,,,,,,,nothing found
+154340663,40,7.5328002,0.989645,19610,,,,2404.243,2.4,227,4.0,4.9,1.6,2,,,,,,,,nothing found
+288676431,40,11.45129967,1.89345002,19609,,,,2410.433,12.0,1008,5.1,3.9,6.6,80,,,,,,,,nothing found
+160440137,40,9.08148956,2.04482007,19605,,,,2398.08,2.4,459,3.9,4.9,4.8,1,,,,,,,,nothing found
+259271084,40,10.37310028,0.79542398,17247,,,,2397.663,3.6,8159,11.9,5.7,7.8,12,,,,,,VSX type ROT,TIC_259271084_S40_single.png,PASSES the basic tests
+40568107,40,8.22970009,17.88960075,19604,,,,2394.437,12.0,1874,3.9,2.4,84.5,1,,,,,,,,nothing found
+138474988,40,8.65340042,7.42225981,19360,,,,2411.681,2.4,490,4.0,3.9,17.9,0,,,,,,,,nothing found
+275626821,40,11.81910038,0.44622001,19610,,,,2397.81,12.0,1521,5.1,3.6,1.9,1443,,,,,,,,nothing found
+236764598,40,7.73368979,2.20215011,19602,,,,2401.351,2.4,362,3.3,4.2,4.6,0,,,,,,,,nothing found
+236000210,40,8.04740047,10.66919994,19605,,,,2416.308,2.4,801,3.3,3.2,32.9,0,,,,,,,,nothing found
+156464601,40,11.04240036,0.34883401,19611,,,,2397.413,9.6,576,6.0,3.8,0.9,1209,,,,,,,,nothing found
+7802164,40,10.27770042,2.11277008,19610,,,,2413.729,12.0,433,6.2,3.7,4.8,64,,,,,,,,nothing found
+158852112,40,10.23630047,0.89098901,19609,,,,2395.273,12.0,484,6.4,4.0,2.1,362,,,,,,,,nothing found
+198205953,40,8.85130024,,19610,,,,2397.498,12.0,286,5.4,4.5,,,,,,,,,,nothing found
+441599867,40,9.5692997,0.85292798,19611,,,,2392.182,4.8,537,4.0,3.3,2.2,25,,,,,,,,nothing found
+159582964,40,10.12699986,2.17600989,16655,,,,2409.395,7.2,928,4.5,4.0,7.2,13,,,,,,,,nothing found
+243276111,40,9.67160034,2.22111011,19609,,,,2393.039,9.6,1364,4.0,3.1,8.9,30,,,,,,,,nothing found
+298405174,40,8.73670006,22.38710022,19610,,,,2397.501,2.4,734,4.0,3.8,66.2,0,,,,,,,,nothing found
+229775402,40,11.58950043,0.69351798,19434,,,,2393.954,12.0,625,6.1,4.4,1.9,597,,,,,,,,nothing found
+121119758,40,10.17029953,5.07733011,19610,,,,2404.291,2.4,12186,5.3,5.4,61.1,0,,,,,,,,nothing found
+441581912,40,11.50259972,0.45314199,19609,,,,2394.62,3.6,1251,3.6,3.5,1.7,38,,,,,,,,nothing found
+198355899,40,9.81939983,2.24095988,19611,,,,2390.77,2.4,1248,5.0,3.8,8.6,0,,,,,,,,nothing found
+21279930,40,9.96798992,2.29272008,19608,,,,2411.207,9.6,319,4.7,3.4,4.5,28,,,,,,,,nothing found
+236758289,40,8.65431023,1.37564003,19605,,,,2403.267,12.0,205,5.3,3.1,2.1,152,,,,,,,,nothing found
+441718542,40,9.25459003,3.8987999,19610,,,,2396.393,4.8,636,4.7,3.2,10.7,1,,,,,,,,nothing found
+198486122,40,10.39340019,1.13713002,19610,,,,2392.434,4.8,568,4.0,3.7,3.0,14,,,,,,,,nothing found
+352847706,40,8.63519955,52.97100067,19608,,,,2411.584,2.4,860,6.1,6.1,169.5,0,,,,,,,,nothing found
+233614532,40,8.10910034,19.48740005,19609,,,,2394.476,4.8,1184,3.1,3.4,73.2,0,,,,,,,,nothing found
+351680104,40,11.66689968,0.70605999,19595,,,,2397.729,7.2,7155,12.5,13.2,6.5,124,,,,,,,,nothing found (dip no bigger than the noise bumps)
+21157570,40,11.00759983,0.81693703,15687,,,,2390.77,2.4,1572,3.8,4.4,3.5,3,,,,,,,,nothing found
+219761807,40,11.79959965,0.51607001,19609,,,,2417.956,4.8,1020,3.7,3.6,1.8,69,,,,,,,,nothing found
+357953186,40,9.31289959,2.13644004,19607,,,,2401.827,2.4,1210,2.9,3.1,8.1,1,,,,,,,,nothing found
+141540565,40,10.69400024,1.03091002,16992,,,,2395.431,12.0,471,4.8,3.5,2.4,270,,,,,,,,nothing found
+356602976,40,11.21689987,0.88083798,19610,,,,2414.348,12.0,1252,10.5,3.4,3.4,370,,,,,,not in catalogues,TIC_356602976_S40_single.png,PASSES the basic tests
+279916080,40,9.05930042,2.27560997,19608,,,,2418.207,12.0,5329,11.8,3.6,18.1,55,,,,,,not in catalogues,TIC_279916080_S40_single.png,PASSES the basic tests
+103580569,40,10.44849968,0.62899899,19608,,,,2394.974,4.8,3990,4.4,5.5,4.3,46,,,,,,,,nothing found
+160164102,40,8.45296001,1.87232006,19611,,,,2418.745,2.4,895,3.7,3.9,6.1,1,,,,,,,,nothing found
+298785446,40,10.83399963,2.2265799,16807,,,,2411.457,2.4,3881,1.5,1.6,15.1,0,,,,,,,,nothing found
+141676570,40,9.10338974,1.94111001,18309,,,,2412.619,12.0,308,6.2,3.9,3.7,76,,,,,,,,nothing found
+237104188,40,9.55471992,1.4138,19609,,,,2402.393,2.4,431,3.4,3.5,3.2,1,,,,,,,,nothing found
+398335790,40,,,,,,,,,,,,,,,,,,,,,"error: ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+367657857,40,10.07050037,1.14259005,19610,,,,2391.308,3.6,636,3.5,3.1,3.1,6,,,,,,,,nothing found
+230129052,40,11.28619957,1.60715997,19609,,,,2397.478,9.6,509,4.1,3.5,4.0,57,,,,,,,,nothing found
+287086972,40,11.44260025,0.57079601,19611,,,,2400.685,2.4,1202,3.5,3.3,2.2,7,,,,,,,,nothing found
+289724276,40,10.48410034,2.54003,19608,,,,2394.833,12.0,529,5.7,3.9,6.4,45,,,,,,,,nothing found
+288133092,40,9.23204994,1.59956002,19609,,,,2397.247,2.4,382,3.1,3.4,3.4,1,,,,,,,,nothing found
+357243349,40,9.82069016,1.12932003,16688,,,,2417.619,2.4,977,3.7,5.8,3.9,2,,,,,,,,nothing found
+258874025,40,9.43465996,1.91363001,19606,,,,2401.226,2.4,428,3.8,3.7,4.3,1,,,,,,,,nothing found
+399912515,40,11.32890034,1.80368996,18479,,,,2409.79,12.0,1731,10.0,4.9,8.2,88,,,,,,not in catalogues,TIC_399912515_S40_single.png,PASSES the basic tests
+188816185,40,8.63679981,10.69830036,19606,,,,2393.874,2.4,1015,3.0,3.1,37.2,0,,,,,,,,nothing found
+41602482,40,10.28269958,6.45237017,19611,,,,2415.729,4.8,4138,11.8,6.8,45.3,0,,,,,,not in catalogues,TIC_41602482_S40_single.png,SUSPICIOUS: V-shaped; too big for a planet; repeats (5 similar dips): use step 2
+229606609,40,9.64550018,4.51915979,19608,,,,2410.058,2.4,697,3.6,3.3,13.0,0,,,,,,,,nothing found
+357045691,40,9.16119957,2.53692007,19608,,,,2391.333,2.4,647,2.2,2.7,7.0,0,,,,,,,,nothing found
+232627540,40,10.2201004,2.33627009,19610,,,,2410.207,12.0,656,5.9,3.8,6.5,53,,,,,,,,nothing found
+8270249,40,8.05109978,19.85680008,19606,NOTHING,,,2413.752,16.0,475,4.7,4.3,47.2,2,,,,1.98,,,,nothing found
+420802447,40,4.7178998,9.06085014,19608,NOTHING,,,2392.827,30.0,328,5.1,4.2,17.9,55,,,,6.72,,,,nothing found
+296208517,40,11.94219971,0.67970097,19609,NOTHING,,,2396.668,3.0,2852,5.9,4.1,4.0,10,,,,1.05,,,,nothing found
+296079775,40,8.0571003,0.82977903,19600,REVIEW,,"borderline SNR (8.0 < 9.0); changes somewhat with cleaning (SNR 8.2/5.4/5.5 with 2.5/5/10-day cleaning, depth ratio 0.85); manually excluded points inside the dip (1); thruster firing nearby (0.00 d from the dip)",2411.606,24.0,147,8.0,3.7,1.1,3338,8.2/5.4/5.5,3.64,9.59,1.03,False,not in catalogues,TIC_296079775_S40_single.png,REVIEW: borderline SNR; changes somewhat with cleaning; manually excluded points inside the dip; thruster firing nearby
+284901900,40,9.74234962,1.01719999,19610,NOTHING,,,2397.875,12.0,287,5.6,3.5,1.9,278,,,,1.02,,,,nothing found
+237280575,40,8.61709023,1.53118002,19607,NOTHING,,,2417.309,12.0,199,5.2,4.1,2.4,123,,,,1.12,,,,nothing found
+399788726,40,10.21889973,1.11888003,19611,NOTHING,,,2414.435,7.2,1410,6.7,4.7,4.6,50,,,,1.22,,,,nothing found
+270854895,40,8.34440041,57.13990021,19565,NOTHING,,,2391.498,20.0,2431,10.9,9.4,307.4,0,,,,3.05,,,,nothing found (dip no bigger than the noise bumps)
+76090631,40,8.33623981,,19606,REJECT,"changes with cleaning (SNR 11.1/4.8/3.5 with 1.25/2.5/5-day cleaning, depth ratio 0.71)",borderline SNR (8.3 < 9.0); weaker in raw SAP flux (raw SAP 1604 ppm vs cleaned 2323 ppm); V-shaped (V fits better by 19),2402.896,12.0,4491,8.3,3.1,,,11.1/4.8/3.5,0.69,-0.44,3.8,True,not in catalogues,TIC_76090631_S40_single.png,REJECT: changes with cleaning; borderline SNR; weaker in raw SAP flux; V-shaped
+272751652,40,11.8906002,0.66326201,19611,NOTHING,,,2417.435,30.0,1437,6.7,4.1,2.7,10204,,,,1.05,,,,nothing found
+158925525,40,8.82738018,1.50784004,19610,NOTHING,,,2405.418,2.0,705,5.3,4.2,4.4,1,,,,1.36,,,,nothing found
+298649457,40,10.39179993,0.38236499,19610,NOTHING,,,2395.979,12.0,383,4.4,3.4,0.8,1965,,,,1.06,,,,nothing found
+48091896,40,5.93319988,1.79389,19609,NOTHING,,,2397.54,12.0,167,4.2,3.4,2.5,89,,,,5.5,,,,nothing found
+142566829,40,8.3884201,2.01834011,19606,REJECT,"changes with cleaning (SNR 3.2/2.0/2.6 with 1.667/3.333/6.667-day cleaning, depth ratio 0.66)",,2402.245,16.0,673,22.9,6.8,5.7,167,3.2/2.0/2.6,1.16,5.26,1.05,False,not in catalogues,TIC_142566829_S40_single.png,REJECT: changes with cleaning
+103604176,40,10.45779991,0.86820799,19611,REJECT,"changes with cleaning (SNR 3.3/1.5/1.6 with 1.25/2.5/5-day cleaning, depth ratio 0.72)",unclear in a local measurement (77 +- 95 ppm),2417.619,12.0,643,9.9,3.4,2.4,381,3.3/1.5/1.6,,-28.77,1.02,False,not in catalogues,TIC_103604176_S40_single.png,REJECT: changes with cleaning; unclear in a local measurement
+219895046,40,4.19169998,11.04920006,19588,REJECT,too variable to search (wiggles 27.16x random noise),,,,,,,,,,,,27.16,,,,REJECT: too variable to search (wiggles 27.16x random noise)
+299028948,40,8.8321104,2.09383011,17493,REJECT,"changes with cleaning (SNR 6.2/5.3/3.9 with 2.083/4.167/8.333-day cleaning, depth ratio 0.64); not in raw SAP flux (raw SAP 23 ppm vs cleaned 206 ppm); background rises during the dip (background +708.5 e/s vs dip 20.2 e/s, 5.8 sigma unusual for this star)",,2407.248,20.0,445,11.7,3.6,4.8,303,6.2/5.3/3.9,0.11,35.07,1.0,False,not in catalogues,TIC_299028948_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; background rises during the dip
+180776923,40,10.32069969,1.72728002,19449,NOTHING,,,2411.293,6.0,470,3.7,3.2,4.1,12,,,,1.0,,,,nothing found
+259097905,40,10.1328001,0.53092098,19611,REJECT,"not in raw SAP flux (raw SAP -52 ppm vs cleaned 674 ppm); background rises during the dip (background +707.8 e/s vs dip 7.9 e/s, 12.0 sigma unusual for this star)","changes somewhat with cleaning (SNR 13.7/5.5/4.6 with 2.5/5/10-day cleaning, depth ratio 0.76)",2391.726,24.0,627,11.4,3.9,1.5,8153,13.7/5.5/4.6,-0.08,89.34,1.03,False,not in catalogues,TIC_259097905_S40_single.png,REJECT: not in raw SAP flux; background rises during the dip; changes somewhat with cleaning
+417915782,40,10.24129963,1.04578996,19610,REJECT,"background rises during the dip (background +683.7 e/s vs dip 9.9 e/s, 19.2 sigma unusual for this star)",thruster firing nearby (0.45 d from the dip); V-shaped (V fits better by 16),2391.516,20.0,856,13.1,3.4,3.3,1216,15.2/7.5/6.0,1.59,68.81,1.07,True,not in catalogues,TIC_417915782_S40_single.png,REJECT: background rises during the dip; thruster firing nearby; V-shaped
+258829061,40,11.38090038,1.46263003,19610,NOTHING,,,2410.184,12.0,689,5.8,3.9,4.2,134,,,,1.03,,,,nothing found
+233629643,40,9.83390045,3.0733099,19611,NOTHING,,,2393.518,30.0,201,7.0,3.8,4.8,475,,,,1.03,,,,nothing found
+76085537,40,10.85789967,1.19851995,19611,NOTHING,,,2393.397,3.0,910,4.3,3.4,3.9,3,,,,0.98,,,,nothing found
+28569253,40,9.87086964,1.51897001,19510,NOTHING,,,2408.208,18.0,189044,17.8,12.9,72.1,420,,,,7.85,,,,nothing found (dip no bigger than the noise bumps)
+156155131,40,8.19769955,2.04768991,19599,REJECT,"changes with cleaning (SNR 10.7/3.0/2.4 with 2.083/4.167/8.333-day cleaning, depth ratio 0.60)",borderline SNR (7.6 < 9.0); manually excluded points inside the dip (3); thruster firing nearby (0.13 d from the dip),2397.016,20.0,611,7.6,4.1,5.5,317,10.7/3.0/2.4,6.33,0.22,1.22,False,not in catalogues,TIC_156155131_S40_single.png,REJECT: changes with cleaning; borderline SNR; manually excluded points inside the dip; thruster firing nearby
+198099774,40,10.29510021,0.68800497,19611,REVIEW,,"changes somewhat with cleaning (SNR 8.4/5.0/4.9 with 2.083/4.167/8.333-day cleaning, depth ratio 0.87); V-shaped (V fits better by 13)",2417.286,20.0,1068,10.9,4.9,2.5,2810,8.4/5.0/4.9,1.0,-40.74,1.2,True,not in catalogues,TIC_198099774_S40_single.png,REVIEW: changes somewhat with cleaning; V-shaped
+141475669,40,11.01710033,0.91275603,19610,REJECT,"changes with cleaning (SNR 10.1/5.1/3.9 with 2.5/5/10-day cleaning, depth ratio 0.63); not in raw SAP flux (raw SAP -771 ppm vs cleaned 220 ppm)",,2392.765,24.0,735,9.9,3.6,2.7,2759,10.1/5.1/3.9,-3.5,18.97,1.04,False,not in catalogues,TIC_141475669_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux
+159812773,40,9.98561001,1.89490998,19610,NOTHING,,,2410.438,12.0,300,4.6,3.1,3.6,80,,,,1.05,,,,nothing found
+459909838,40,8.72210026,3.06167006,19604,NOTHING,,,2392.829,20.0,198,5.9,3.4,4.7,142,,,,1.26,,,,nothing found
+366120202,40,8.95400047,0.94471198,19609,REJECT,"changes with cleaning (SNR 4.8/3.2/3.3 with 1.667/3.333/6.667-day cleaning, depth ratio 0.87)",borderline SNR (7.6 < 9.0),2416.75,16.0,278,7.6,4.2,1.7,763,4.8/3.2/3.3,1.2,-8.08,1.04,False,not in catalogues,TIC_366120202_S40_single.png,REJECT: changes with cleaning; borderline SNR
+235992846,40,7.25349998,1.89159,19600,NOTHING,,,2394.683,30.0,403,4.9,3.4,4.1,1254,,,,5.78,,,,nothing found
+334312117,40,9.53590965,2.15250993,17431,NOTHING,,,2411.677,20.0,214,4.8,3.6,3.4,287,,,,1.09,,,,nothing found
+198391011,40,10.48009968,1.01663995,19611,NOTHING,,,2402.707,12.0,392,5.6,4.3,2.2,278,,,,0.97,,,,nothing found
+237097549,40,8.08600044,2.23806,19603,NOTHING,,,2404.166,3.0,1298,6.5,6.7,8.8,1,,,,7.26,,,,nothing found
+47975812,40,8.21580029,8.96296024,19611,REJECT,"changes with cleaning (SNR 3.4/5.1/6.3 with 2.083/4.167/8.333-day cleaning, depth ratio 0.22); not in raw SAP flux (raw SAP 69 ppm vs cleaned 4177 ppm); background rises during the dip (background +307.3 e/s vs dip 245.5 e/s, 4.5 sigma unusual for this star)",too big for a planet (4.9 Jupiters),2392.228,20.0,3210,12.7,5.3,55.4,17,3.4/5.1/6.3,0.02,1.25,1.33,True,not in catalogues,TIC_47975812_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; background rises during the dip; too big for a planet
+123206454,40,5.45223999,24.78750038,19576,REJECT,"changes with cleaning (SNR 2.2/3.3/4.4 with 1.25/2.5/5-day cleaning, depth ratio 0.10)",manually excluded points inside the dip (1); too big for a planet (14.0 Jupiters),2413.269,12.0,3378,12.7,3.5,157.2,0,2.2/3.3/4.4,1.0,-0.09,5.31,True,not in catalogues,TIC_123206454_S40_single.png,REJECT: changes with cleaning; manually excluded points inside the dip; too big for a planet
+147574768,40,6.89288998,2.70734,19611,REJECT,too variable to search (wiggles 40.26x random noise),,,,,,,,,,,,40.26,,,,REJECT: too variable to search (wiggles 40.26x random noise)
+198417929,40,9.92759991,28.17720032,19608,NOTHING,,,2417.374,12.0,2153,6.0,3.3,142.7,0,,,,1.5,,,,nothing found
+121085912,40,4.09895992,,19592,NOTHING,,,2397.437,8.0,2188,20.8,19.9,,,,,,5.32,,,,nothing found (dip no bigger than the noise bumps)
+235988682,40,6.97232008,2.61572003,19601,NOTHING,,,2405.891,12.0,91,5.5,3.7,2.7,42,,,,1.12,,,,nothing found
+147992928,40,10.00500011,0.62869298,19611,REJECT,"changes with cleaning (SNR 7.0/5.7/3.9 with 1.667/3.333/6.667-day cleaning, depth ratio 0.62)",manually excluded points inside the dip (4); thruster firing nearby (0.02 d from the dip),2397.204,16.0,595,10.6,4.0,1.7,1723,7.0/5.7/3.9,1.37,-2.22,1.01,False,not in catalogues,TIC_147992928_S40_single.png,REJECT: changes with cleaning; manually excluded points inside the dip; thruster firing nearby
+233499061,40,10.74639988,4.94202995,19611,NOTHING,,,2403.872,12.0,639,6.4,4.5,13.6,12,,,,1.1,,,,nothing found
+375670832,40,8.17846012,11.0472002,19607,REJECT,"changes with cleaning (SNR 10.4/3.4/2.6 with 3.125/6.25/12.5-day cleaning, depth ratio 0.42)",borderline SNR (7.5 < 9.0); edge of duration range (30 h box); weaker in raw SAP flux (raw SAP 236 ppm vs cleaned 407 ppm); too big for a planet (3.9 Jupiters),2415.126,30.0,1282,7.5,3.4,43.2,37,10.4/3.4/2.6,0.58,1.55,3.91,True,not in catalogues,TIC_375670832_S40_single.png,REJECT: changes with cleaning; borderline SNR; edge of duration range; weaker in raw SAP flux; too big for a planet
+219773961,40,10.58010006,0.63675803,19611,REJECT,"changes with cleaning (SNR 5.8/5.0/4.0 with 3.125/6.25/12.5-day cleaning, depth ratio 0.60); not in raw SAP flux (raw SAP -164 ppm vs cleaned 498 ppm)",edge of duration range (30 h box),2417.102,30.0,432,9.1,4.0,1.4,11071,5.8/5.0/4.0,-0.33,-43.88,0.97,False,not in catalogues,TIC_219773961_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; edge of duration range
+230129744,40,5.63348007,39.4048996,19608,NOTHING,,,2398.645,12.0,885,6.8,5.4,127.9,0,,,,2.28,,,,nothing found
+198458643,40,10.76729965,0.975169,19609,REJECT,"changes with cleaning (SNR 10.1/3.5/2.3 with 2.5/5/10-day cleaning, depth ratio 0.87)",,2417.353,24.0,1293,10.3,3.7,3.8,2417,10.1/3.5/2.3,1.47,-46.93,1.16,False,not in catalogues,TIC_198458643_S40_single.png,REJECT: changes with cleaning
+417620193,40,8.35210037,27.01259995,19608,NOTHING,,,2401.578,12.0,950,4.0,5.6,90.8,0,,,,2.36,,,,nothing found
+219695917,40,11.55669975,0.61788899,19611,NOTHING,,,2415.307,12.0,1363,7.3,3.7,2.5,752,,,,0.99,,,,nothing found
+232610674,40,9.97558022,1.35953999,19610,REJECT,"changes with cleaning (SNR 8.6/5.3/4.4 with 1.25/2.5/5-day cleaning, depth ratio 0.90)",borderline SNR (7.7 < 9.0),2416.29,12.0,390,7.7,3.7,2.9,155,8.6/5.3/4.4,1.04,-0.48,1.04,False,not in catalogues,TIC_232610674_S40_single.png,REJECT: changes with cleaning; borderline SNR
+157521743,40,9.15406036,2.33293009,19608,NOTHING,,,2409.584,5.4,316,4.1,3.3,4.5,5,,,,1.04,,,,nothing found
+461621539,40,8.5625,48.34550095,19609,REJECT,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",weaker in raw SAP flux (raw SAP 885 ppm vs cleaned 2226 ppm); too big for a planet (20.2 Jupiters),2397.494,4.0,1834,10.2,5.5,225.9,0,11.8/10.2/10.1,0.4,-1.3,1.97,True,not in catalogues,TIC_461621539_S40_single.png,REJECT: flagged points inside the dip; weaker in raw SAP flux; too big for a planet
+160308244,40,8.93980026,0.78489101,19607,NOTHING,,,2406.662,5.4,276,4.4,3.7,1.4,42,,,,1.07,,,,nothing found
+364131141,40,8.84953976,1.10413003,19610,NOTHING,,,2390.912,4.6,1370,5.5,5.1,4.5,13,,,,2.79,,,,nothing found
+441725813,40,11.05130005,,19610,NOTHING,,,2399.997,12.0,644,4.4,3.2,,,,,,4.25,,,,nothing found
+157895643,40,5.0079999,74.55380249,19602,NOTHING,,,2413.812,12.0,1321,7.6,5.7,295.6,0,,,,4.74,,,,nothing found (dip no bigger than the noise bumps)
+122513734,40,10.52690029,1.61465001,19611,NOTHING,,,2391.416,16.0,395,5.8,3.8,3.5,261,,,,1.04,,,,nothing found
+270315990,40,8.02670002,22.62389946,19611,NOTHING,,,2392.209,2.3,717,4.0,4.4,66.1,0,,,,4.13,,,,nothing found
+230132989,40,8.93309975,1.61275995,19610,NOTHING,,,2407.31,9.0,405,4.1,3.3,3.5,47,,,,1.35,,,,nothing found
+298662343,40,11.67879963,0.92916697,19610,NOTHING,,,2413.435,2.6,1591,4.0,3.9,4.0,3,,,,1.02,,,,nothing found
+237107060,40,9.35614967,1.73882997,19608,NOTHING,,,2410.204,2.4,405,3.6,3.6,3.8,1,,,,1.06,,,,nothing found
+356669985,40,9.3767004,1.79029,17735,NOTHING,,,2397.307,12.0,348,7.1,4.5,3.6,90,,,,1.05,,,,nothing found
+141715513,40,11.15410042,1.93646002,19440,NOTHING,,,2393.953,16.0,749,7.4,4.3,5.8,182,,,,1.01,,,,nothing found
+353164472,40,5.22659016,27.07869911,19607,NOTHING,,,2418.313,12.0,679,5.7,3.8,77.0,0,,,,6.23,,,,nothing found
+229979857,40,4.57060003,3.32376003,19600,NOTHING,,,2397.101,16.0,70,9.4,7.8,3.0,62,,,,1.06,,,,nothing found (dip no bigger than the noise bumps)
+287180424,40,8.34834003,1.40521002,19606,NOTHING,,,2401.161,16.0,531,6.5,3.2,3.5,345,,,,1.47,,,,nothing found
+236768228,40,8.91090965,1.46837997,19608,NOTHING,,,2396.476,24.0,182,5.4,3.6,2.2,1066,,,,1.06,,,,nothing found
+147821327,40,10.38939953,1.07576001,16683,NOTHING,,,2397.974,18.0,577,6.9,3.3,2.8,838,,,,1.09,,,,nothing found
+462707324,40,5.33010006,,19558,REJECT,too variable to search (wiggles 12.23x random noise),,,,,,,,,,,,12.23,,,,REJECT: too variable to search (wiggles 12.23x random noise)
+288183622,40,8.71660042,10.59930038,19609,REJECT,"changes with cleaning (SNR 10.9/3.1/2.5 with 2.083/4.167/8.333-day cleaning, depth ratio 0.46)",borderline SNR (7.8 < 9.0); V-shaped (V fits better by 9); too big for a planet (3.3 Jupiters),2414.517,20.0,996,7.8,3.9,36.5,12,10.9/3.1/2.5,0.94,0.97,2.59,True,not in catalogues,TIC_288183622_S40_single.png,REJECT: changes with cleaning; borderline SNR; V-shaped; too big for a planet
+219794517,40,10.77200031,1.51066005,19611,NOTHING,,,2408.769,12.0,396,4.7,4.0,3.3,126,,,,1.0,,,,nothing found
+399793072,40,10.35179996,1.61497998,19544,REJECT,"changes with cleaning (SNR 9.5/4.4/3.5 with 2.083/4.167/8.333-day cleaning, depth ratio 0.92)",borderline SNR (8.4 < 9.0); manually excluded points inside the dip (2),2396.333,20.0,645,8.4,3.6,4.5,510,9.5/4.4/3.5,1.64,28.98,1.07,False,not in catalogues,TIC_399793072_S40_single.png,REJECT: changes with cleaning; borderline SNR; manually excluded points inside the dip
+230028174,40,9.8781004,2.02923012,19611,REJECT,"changes with cleaning (SNR 7.4/4.0/2.4 with 1.25/2.5/5-day cleaning, depth ratio 0.77)",borderline SNR (8.5 < 9.0),2391.664,12.0,746,8.5,3.8,6.0,70,7.4/4.0/2.4,0.92,25.38,1.08,False,not in catalogues,TIC_230028174_S40_single.png,REJECT: changes with cleaning; borderline SNR
+122837104,40,9.01889992,1.89868999,19608,NOTHING,,,2403.749,12.0,160,4.3,3.4,2.6,80,,,,1.02,,,,nothing found
+147574364,40,8.47949982,0.68790501,19610,REJECT,not in raw SAP flux (raw SAP -18 ppm vs cleaned 1580 ppm),"changes somewhat with cleaning (SNR 14.2/7.2/5.3 with 1.25/2.5/5-day cleaning, depth ratio 0.72); background rises a little (background +1495.8 e/s vs dip 86.5 e/s, 3.6 sigma unusual for this star); V-shaped (V fits better by 52)",2416.765,12.0,1418,12.1,7.1,2.8,607,14.2/7.2/5.3,-0.01,17.29,1.55,True,VSX type ROT,TIC_147574364_S40_single.png,REJECT: not in raw SAP flux; changes somewhat with cleaning; background rises a little; V-shaped
+336321774,40,10.07540035,1.58596003,15383,NOTHING,,,2417.604,20.0,525,5.7,4.1,4.0,529,,,,3.97,,,,nothing found
+75880145,40,5.53119993,91.67230225,19609,REJECT,"changes with cleaning (SNR 9.0/13.5/7.7 with 1.25/2.5/5-day cleaning, depth ratio 0.32); not in raw SAP flux (raw SAP -71 ppm vs cleaned 4106 ppm)",thruster firing nearby (0.49 d from the dip); too big for a planet (54.2 Jupiters),2391.396,12.0,3680,26.1,6.9,606.7,0,9.0/13.5/7.7,-0.02,0.18,1.01,True,"VSX type SRB, P=137.0000 d",TIC_75880145_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; thruster firing nearby; too big for a planet
+219104977,40,10.68760014,0.81091303,19611,NOTHING,,,2390.748,1.4,2744,7.8,5.7,4.6,1,,,,1.76,,,,nothing found (dip no bigger than the noise bumps)
+259128795,40,10.31499958,1.44326997,19611,NOTHING,,,2411.726,3.4,541,4.0,4.1,3.7,3,,,,1.02,,,,nothing found
+284559267,40,9.21959019,2.5128901,15271,NOTHING,,,2406.019,12.0,323,5.4,4.2,4.9,45,,,,1.14,,,,nothing found
+116099248,40,4.5309,87.95259857,19589,NOTHING,,,2397.688,6.0,779,19.5,15.3,267.9,0,,,,1.27,,,,nothing found (dip no bigger than the noise bumps)
+280073317,40,9.37794971,1.87377,19611,NOTHING,,,2414.83,12.0,246,6.4,4.3,3.2,82,,,,1.03,,,,nothing found
+377048933,40,10.78429985,3.24571991,19611,NOTHING,,,2411.435,12.0,963,5.9,3.6,11.0,27,,,,1.11,,,,nothing found
+160119560,40,10.02060032,1.03314996,19611,REJECT,"changes with cleaning (SNR 5.4/4.1/3.6 with 2.083/4.167/8.333-day cleaning, depth ratio 0.73); not in raw SAP flux (raw SAP -438 ppm vs cleaned 238 ppm); background rises during the dip (background +147.7 e/s vs dip 4.6 e/s, 4.9 sigma unusual for this star)",borderline SNR (8.1 < 9.0); thruster firing nearby (0.42 d from the dip),2406.161,20.0,331,8.1,4.5,2.1,1246,5.4/4.1/3.6,-1.84,32.15,0.99,False,not in catalogues,TIC_160119560_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; background rises during the dip; borderline SNR; thruster firing nearby
+258395472,40,8.99528027,0.57597101,19609,NOTHING,,,2397.459,6.0,1264,11.9,8.5,2.2,108,,,,1.22,,,,nothing found (dip no bigger than the noise bumps)
+111790795,40,10.6491003,1.59053004,19611,NOTHING,,,2418.75,3.0,1371,4.1,4.0,6.4,2,,,,1.1,,,,nothing found
+237160530,40,11.41240025,1.07465994,19611,NOTHING,,,2390.895,3.0,1221,4.0,5.2,4.1,4,,,,1.07,,,,nothing found
+159334198,40,8.01898003,3.1047399,19609,NOTHING,,,2410.705,6.0,203,3.4,3.3,4.8,4,,,,1.16,,,,nothing found
+233719313,40,11.58850002,1.39769006,19611,NOTHING,,,2408.789,12.0,1890,6.9,3.6,6.6,147,,,,1.04,,,,nothing found
+160229387,40,9.34049988,0.63799101,19611,REJECT,not in raw SAP flux (raw SAP 423 ppm vs cleaned 2689 ppm),manually excluded points inside the dip (4); thruster firing nearby (0.00 d from the dip),2397.433,6.0,2387,11.3,5.2,3.4,88,17.7/11.3/10.5,0.16,-2.13,1.73,False,not in catalogues,TIC_160229387_S40_single.png,REJECT: not in raw SAP flux; manually excluded points inside the dip; thruster firing nearby
+341873878,40,10.55879974,0.72840399,19609,REJECT,"changes with cleaning (SNR 9.2/5.4/4.3 with 2.5/5/10-day cleaning, depth ratio 0.79)",borderline SNR (9.0 < 9.0),2401.642,24.0,530,9.0,5.4,1.8,4332,9.2/5.4/4.3,0.84,14.22,1.09,False,not in catalogues,TIC_341873878_S40_single.png,REJECT: changes with cleaning; borderline SNR
+219463934,40,8.73209953,7.42998981,19608,REJECT,"changes with cleaning (SNR 7.5/4.2/3.6 with 2.5/5/10-day cleaning, depth ratio 0.75); not in raw SAP flux (raw SAP 59 ppm vs cleaned 272 ppm)",borderline SNR (7.9 < 9.0); manually excluded points inside the dip (1),2413.329,24.0,512,7.9,3.9,18.3,42,7.5/4.2/3.6,0.22,0.56,1.88,False,not in catalogues,TIC_219463934_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; borderline SNR; manually excluded points inside the dip
+258389994,40,8.98379993,3.97722006,19605,NOTHING,,,2407.371,30.0,181,4.7,3.2,5.8,284,,,,1.38,,,,nothing found
+18634755,40,11.12180042,0.93301302,16117,NOTHING,,,2417.313,24.0,2609,7.3,3.8,5.2,2640,,,,1.36,,,,nothing found
+389916508,40,8.22869968,20.77669907,19611,NOTHING,,,2412.56,4.0,871,3.7,4.5,66.9,0,,,,3.26,,,,nothing found
+233047440,40,10.77859974,0.73551399,19611,REJECT,"changes with cleaning (SNR 12.9/4.2/3.0 with 1.25/2.5/5-day cleaning, depth ratio 0.54)",borderline SNR (8.8 < 9.0); weaker in raw SAP flux (raw SAP 418 ppm vs cleaned 724 ppm),2394.957,12.0,1036,8.8,5.4,2.6,531,12.9/4.2/3.0,0.58,3.68,1.03,False,not in catalogues,TIC_233047440_S40_single.png,REJECT: changes with cleaning; borderline SNR; weaker in raw SAP flux
+243272097,40,8.17681026,1.81731999,19609,NOTHING,,,2398.144,24.0,490,6.4,3.4,4.4,696,,,,5.93,,,,nothing found
+154343860,40,10.07439995,1.06861997,19610,REJECT,"changes with cleaning (SNR 11.8/4.0/3.2 with 2.083/4.167/8.333-day cleaning, depth ratio 0.74); not in raw SAP flux (raw SAP -1121 ppm vs cleaned 359 ppm)","background rises a little (background +551.9 e/s vs dip 9.7 e/s, 3.1 sigma unusual for this star)",2392.599,20.0,715,10.4,4.7,3.1,1165,11.8/4.0/3.2,-3.12,57.0,1.07,False,not in catalogues,TIC_154343860_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; background rises a little
+441560890,40,10.12930012,0.67507201,18348,NOTHING,,,2393.474,12.0,380,5.9,3.7,1.4,630,,,,1.06,,,,nothing found
+356198675,40,10.63759995,0.80223799,19607,NOTHING,,,2409.041,1.2,8941,24.2,20.1,8.3,0,,,,4.19,,,,nothing found (dip no bigger than the noise bumps)
+395019037,40,9.09344006,2.68026996,19499,NOTHING,,,2410.938,4.0,329,3.6,3.3,5.3,1,,,,1.05,,,,nothing found
+219880411,40,11.96020031,1.49363995,19611,REJECT,"changes with cleaning (SNR -1.5/-0.3/-0.4 with 1.667/3.333/6.667-day cleaning, depth ratio 0.00)",unclear in a local measurement (-111 +- 165 ppm),2401.748,16.0,1529,9.7,3.4,6.4,305,-1.5/-0.3/-0.4,,4.9,0.96,False,not in catalogues,TIC_219880411_S40_single.png,REJECT: changes with cleaning; unclear in a local measurement
+398265069,40,11.25640011,4.78948021,19608,REJECT,too variable to search (wiggles 185.9x random noise),,,,,,,,,,,,185.9,,,,REJECT: too variable to search (wiggles 185.9x random noise)
+279979391,40,10.05389977,1.31443,18620,REJECT,"background rises during the dip (background +742.4 e/s vs dip 8.4 e/s, 10.1 sigma unusual for this star)","edge of duration range (30 h box); changes somewhat with cleaning (SNR 8.0/6.9/5.2 with 3.125/6.25/12.5-day cleaning, depth ratio 0.64); V-shaped (V fits better by 21)",2406.571,30.0,579,10.7,4.0,3.4,2598,8.0/6.9/5.2,2.52,87.93,0.99,True,not in catalogues,TIC_279979391_S40_single.png,REJECT: background rises during the dip; edge of duration range; changes somewhat with cleaning; V-shaped
+198176649,40,10.07059956,0.98679101,19607,NOTHING,,,2417.602,30.0,369,6.2,2.9,2.1,4610,,,,1.04,,,,nothing found
+229715468,40,11.50030041,2.68604994,19611,NOTHING,,,2406.58,30.0,595,5.2,3.7,7.1,622,,,,0.99,,,,nothing found
+142536962,40,7.83890009,2.33272004,19607,REJECT,"changes with cleaning (SNR 7.9/4.5/3.9 with 1.25/2.5/5-day cleaning, depth ratio 0.86)",borderline SNR (8.0 < 9.0); manually excluded points inside the dip (5); thruster firing nearby (0.00 d from the dip),2397.308,12.0,261,8.0,4.2,4.1,53,7.9/4.5/3.9,5.48,-4.99,1.04,False,not in catalogues,TIC_142536962_S40_single.png,REJECT: changes with cleaning; borderline SNR; manually excluded points inside the dip; thruster firing nearby
+232621999,40,10.38899994,0.87882799,19609,REJECT,"changes with cleaning (SNR 3.9/3.8/3.8 with 1.667/3.333/6.667-day cleaning, depth ratio 0.57)",borderline SNR (8.1 < 9.0),2408.957,16.0,553,8.1,3.4,2.3,882,3.9/3.8/3.8,0.88,13.13,0.94,False,not in catalogues,TIC_232621999_S40_single.png,REJECT: changes with cleaning; borderline SNR
+336410894,40,11.36009979,4.99919987,14650,REJECT,too variable to search (wiggles 145.3x random noise),,,,,,,,,,,,145.3,,,,REJECT: too variable to search (wiggles 145.3x random noise)
+160228580,40,11.06659985,0.301202,19610,NOTHING,,,2408.308,12.0,622,6.3,4.3,0.8,3167,,,,0.95,,,,nothing found
+237307750,40,9.2514801,1.06125998,19607,NOTHING,,,2391.829,16.0,440,6.1,3.7,2.4,605,,,,1.09,,,,nothing found
+332624489,40,8.74250031,10.55060005,19606,NOTHING,,,2406.0,12.0,2390,6.3,3.4,56.3,3,,,,6.99,,,,nothing found
+157521786,40,10.06770039,1.65716004,19611,NOTHING,,,2403.876,2.3,966,5.0,4.1,5.6,1,,,,1.71,,,,nothing found
+193680799,40,8.56799984,20.29829979,19608,NOTHING,,,2408.708,16.0,3312,7.2,3.5,127.5,2,,,,3.11,,,,nothing found
+137603814,40,10.09770012,1.00737,19610,NOTHING,,,2392.037,24.0,272,5.9,3.3,1.8,2265,,,,0.97,,,,nothing found
+193946535,40,10.51819992,1.03422999,19610,NOTHING,,,2402.167,12.0,533,7.1,3.7,2.6,269,,,,1.06,,,,nothing found
+159511903,40,10.77589989,2.93319011,19610,NOTHING,,,2409.08,30.0,397,5.9,3.5,6.4,522,,,,1.06,,,,nothing found
+462637142,40,8.90380001,,19609,NOTHING,,,2407.769,12.0,405,5.9,3.9,,,,,,1.06,,,,nothing found
+313811128,40,9.51819992,0.62171,19609,NOTHING,,,2398.939,12.0,484,6.9,3.7,1.5,743,,,,1.1,,,,nothing found
+233495044,40,8.66891956,2.1965301,19606,NOTHING,,,2391.33,16.0,115,3.7,3.5,2.6,141,,,,1.24,,,,nothing found
+230011190,40,9.87891006,0.999143,19610,REJECT,"changes with cleaning (SNR 8.0/3.4/2.5 with 2.083/4.167/8.333-day cleaning, depth ratio 0.78)","borderline SNR (7.6 < 9.0); weaker in raw SAP flux (raw SAP 128 ppm vs cleaned 225 ppm); background rises a little (background +243.7 e/s vs dip 6.5 e/s, 3.6 sigma unusual for this star)",2406.831,20.0,387,7.6,4.1,2.1,1332,8.0/3.4/2.5,0.57,37.7,1.07,False,not in catalogues,TIC_230011190_S40_single.png,REJECT: changes with cleaning; borderline SNR; weaker in raw SAP flux; background rises a little
+264075158,40,7.06290007,,19593,REJECT,too variable to search (wiggles 10.81x random noise),,,,,,,,,,,,10.81,,,,REJECT: too variable to search (wiggles 10.81x random noise)
+193872821,40,11.05010033,0.52868301,19607,NOTHING,,,2414.354,12.0,939,8.1,6.0,1.8,1028,,,,1.01,,,,nothing found (dip no bigger than the noise bumps)
+75786387,40,7.8081398,1.80368996,19605,REJECT,too variable to search (wiggles 19.45x random noise),,,,,,,,,,,,19.45,,,,REJECT: too variable to search (wiggles 19.45x random noise)
+22309070,40,9.33850002,2.68949008,19608,REJECT,too variable to search (wiggles 38.0x random noise),,,,,,,,,,,,38.0,,,,REJECT: too variable to search (wiggles 38.0x random noise)
+26419217,40,10.21850014,0.69473398,15777,NOTHING,,,2408.79,12.0,660,6.5,3.9,1.9,595,,,,1.09,,,,nothing found
+142877884,40,9.60369968,0.766958,19609,NOTHING,,,2397.516,3.0,864,7.0,3.9,2.5,8,,,,1.13,,,,nothing found
+121598527,40,11.05539989,1.65101004,19610,NOTHING,,,2397.437,8.0,1197,5.5,3.6,6.2,31,,,,1.15,,,,nothing found
+457096602,40,11.15530014,0.60849297,19611,NOTHING,,,2414.347,12.0,950,6.0,3.6,2.0,776,,,,1.02,,,,nothing found
+230298837,40,10.32330036,2.74875998,19608,REJECT,too variable to search (wiggles 139.94x random noise),,,,,,,,,,,,139.94,,,,REJECT: too variable to search (wiggles 139.94x random noise)
+232604837,40,9.80762005,1.69442999,19607,REJECT,too variable to search (wiggles 20.57x random noise),,,,,,,,,,,,20.57,,,,REJECT: too variable to search (wiggles 20.57x random noise)
+333332756,40,8.00403023,1.89888,19605,REJECT,"changes with cleaning (SNR 3.4/2.7/3.2 with 1.25/2.5/5-day cleaning, depth ratio 0.29)",borderline SNR (7.8 < 9.0),2417.169,12.0,812,7.8,3.6,5.9,80,3.4/2.7/3.2,0.95,-1.96,1.44,False,not in catalogues,TIC_333332756_S40_single.png,REJECT: changes with cleaning; borderline SNR
+352302462,40,8.33615017,3.14795995,19608,NOTHING,,,2392.039,12.0,152,4.2,3.5,4.2,29,,,,1.17,,,,nothing found
+103580625,40,9.90797997,0.97952402,19611,NOTHING,,,2406.432,24.0,243,6.6,3.9,1.7,2395,,,,1.0,,,,nothing found
+9417449,40,8.77579975,2.86233997,19607,NOTHING,,,2414.126,10.4,310,3.7,3.4,5.5,23,,,,1.48,,,,nothing found
+356337206,40,8.08215046,3.76178002,19604,REJECT,"changes with cleaning (SNR 6.9/3.3/2.2 with 2.083/4.167/8.333-day cleaning, depth ratio 0.73)",manually excluded points inside the dip (4); thruster firing nearby (0.07 d from the dip),2397.083,20.0,206,9.8,4.0,5.9,94,6.9/3.3/2.2,14.63,1.06,1.25,False,not in catalogues,TIC_356337206_S40_single.png,REJECT: changes with cleaning; manually excluded points inside the dip; thruster firing nearby
+243284724,40,11.58049965,1.58276999,18325,REJECT,"changes with cleaning (SNR 7.6/4.1/3.1 with 1.25/2.5/5-day cleaning, depth ratio 0.70)",weaker in raw SAP flux (raw SAP 347 ppm vs cleaned 683 ppm),2408.248,12.0,1513,9.3,4.6,6.7,115,7.6/4.1/3.1,0.51,-81.32,0.98,False,not in catalogues,TIC_243284724_S40_single.png,REJECT: changes with cleaning; weaker in raw SAP flux
+219105073,40,9.02525997,2.17601991,19608,REJECT,too variable to search (wiggles 8.82x random noise),,,,,,,,,,,,8.82,,,,REJECT: too variable to search (wiggles 8.82x random noise)
+219465397,40,8.31861973,1.91576004,19610,NOTHING,,,2402.205,12.0,127,4.3,3.7,2.4,78,,,,1.04,,,,nothing found
+48304328,40,9.30430984,1.60705996,19608,NOTHING,,,2395.415,4.0,410,4.1,3.3,3.5,4,,,,1.05,,,,nothing found
+122680362,40,10.06820011,3.29893994,19610,NOTHING,,,2395.999,16.0,405,5.6,3.4,7.2,63,,,,1.0,,,,nothing found
+312867225,40,10.76439953,1.17709005,19611,NOTHING,,,2398.557,6.9,652,4.4,3.7,3.3,39,,,,0.99,,,,nothing found
+441788616,40,8.14315987,1.78062999,19596,NOTHING,,,2391.185,7.2,408,3.2,3.1,3.9,20,,,,5.08,,,,nothing found
+316491291,40,10.17560005,0.874623,19610,REJECT,"changes with cleaning (SNR 15.0/4.0/1.4 with 1.25/2.5/5-day cleaning, depth ratio 0.68)",unclear in a local measurement (-705 +- 359 ppm),2407.229,12.0,2499,12.4,5.2,4.8,376,15.0/4.0/1.4,,-7.68,1.42,False,not in catalogues,TIC_316491291_S40_single.png,REJECT: changes with cleaning; unclear in a local measurement
+298070683,40,10.13459969,3.07287002,19610,REJECT,"changes with cleaning (SNR 5.6/4.3/3.4 with 1.25/2.5/5-day cleaning, depth ratio 0.79)",borderline SNR (8.2 < 9.0),2395.017,12.0,536,8.2,4.2,7.8,30,5.6/4.3/3.4,1.27,10.86,1.08,False,not in catalogues,TIC_298070683_S40_single.png,REJECT: changes with cleaning; borderline SNR
+198778706,40,11.33160019,1.72777998,19610,NOTHING,,,2396.229,12.0,1227,5.8,3.6,6.6,96,,,,1.07,,,,nothing found
+383751023,40,8.52073956,1.73945999,19606,NOTHING,,,2400.228,30.0,215,7.5,4.3,2.8,1484,,,,1.05,,,,nothing found
+350786051,40,9.8927002,2.55004001,19610,NOTHING,,,2418.084,12.0,322,5.4,4.8,5.0,44,,,,1.26,,,,nothing found
+420131865,40,11.92350006,0.665241,16593,REJECT,"repeats (2 similar dips: periodic, use step 2)","borderline SNR (8.2 < 9.0); changes somewhat with cleaning (SNR 7.9/5.7/4.6 with 1.667/3.333/6.667-day cleaning, depth ratio 0.89)",2394.288,16.0,1229,8.2,3.5,2.5,1539,7.9/5.7/4.6,0.76,-22.11,0.96,True,not in catalogues,TIC_420131865_S40_single.png,REJECT: repeats; borderline SNR; changes somewhat with cleaning
+237209298,40,10.56330013,3.15514994,15756,NOTHING,,,2395.933,16.0,395,5.2,5.1,6.8,68,,,,1.0,,,,nothing found
+264175826,40,11.32240009,1.56976998,19496,NOTHING,,,2392.955,12.0,1035,7.3,3.5,5.5,117,,,,1.02,,,,nothing found
+237116740,40,10.22539997,1.16403997,19492,REJECT,"changes with cleaning (SNR 14.7/4.5/3.4 with 1.25/2.5/5-day cleaning, depth ratio 0.53)",borderline SNR (8.7 < 9.0),2395.082,12.0,699,8.7,3.3,3.4,212,14.7/4.5/3.4,1.09,25.72,1.12,False,not in catalogues,TIC_237116740_S40_single.png,REJECT: changes with cleaning; borderline SNR
+159888150,40,6.96850014,1.49390996,19607,NOTHING,,,2399.751,12.0,434,6.9,2.7,3.4,129,,,,7.93,,,,nothing found
+417618048,40,11.67860031,0.58439499,19610,NOTHING,,,2416.161,20.0,662,5.2,4.7,1.6,3894,,,,1.03,,,,nothing found
+358699780,40,9.68581963,1.77434003,19610,NOTHING,,,2411.438,30.0,282,7.1,3.7,3.2,1426,,,,0.99,,,,nothing found
+312849471,40,7.88059998,2.03960991,19609,NOTHING,,,2409.369,24.0,100,4.9,4.4,2.2,552,,,,1.08,,,,nothing found
+154570014,40,10.48400021,1.00251997,19610,REJECT,not in raw SAP flux (raw SAP -297 ppm vs cleaned 2673 ppm),manually excluded points inside the dip (1); thruster firing nearby (0.03 d from the dip),2397.683,3.9,2550,9.9,6.0,5.5,10,11.1/9.9/10.1,-0.11,2.39,1.33,False,VSX type ROT,TIC_154570014_S40_single.png,REJECT: not in raw SAP flux; manually excluded points inside the dip; thruster firing nearby
+258803329,40,8.29800034,10.46650028,19604,NOTHING,,,2406.226,12.0,971,4.2,3.6,35.6,3,,,,3.32,,,,nothing found
+235935931,40,9.2410202,1.33989,19610,NOTHING,,,2398.62,30.0,843,6.7,3.6,4.2,2500,,,,1.25,,,,nothing found
+198781841,40,10.57859993,1.62608004,19610,NOTHING,,,2411.188,2.3,1202,4.5,4.0,6.2,1,,,,1.04,,,,nothing found
+288238070,40,10.25419998,0.79939598,19610,REJECT,"changes with cleaning (SNR 10.0/3.5/2.7 with 1.25/2.5/5-day cleaning, depth ratio 0.50)",borderline SNR (7.8 < 9.0); unclear in a local measurement (120 +- 69 ppm),2413.642,12.0,432,7.8,3.7,1.8,450,10.0/3.5/2.7,,14.5,1.03,False,not in catalogues,TIC_288238070_S40_single.png,REJECT: changes with cleaning; borderline SNR; unclear in a local measurement
+137481129,40,9.19554996,2.71725988,19611,NOTHING,,,2403.662,12.0,217,5.1,3.7,4.4,39,,,,1.04,,,,nothing found
+159511706,40,9.64080048,0.82060802,19610,NOTHING,,,2418.745,3.0,1183,5.5,4.6,3.1,7,,,,1.4,,,,nothing found
+396286842,40,10.65699959,1.33115005,19611,NOTHING,,,2392.751,30.0,618,5.2,3.1,3.6,2533,,,,1.05,,,,nothing found
+356630443,40,10.90340042,1.01748002,19610,NOTHING,,,2406.766,3.4,830,4.2,4.7,3.2,7,,,,0.96,,,,nothing found
+230085213,40,11.92490005,1.55541003,19611,NOTHING,,,2391.768,20.0,893,5.1,3.9,5.1,550,,,,0.9,,,,nothing found
+362215490,40,8.54230022,1.03506005,19604,REVIEW,,"changes somewhat with cleaning (SNR 10.8/6.6/5.0 with 1.25/2.5/5-day cleaning, depth ratio 0.83); manually excluded points inside the dip (1); thruster firing nearby (0.00 d from the dip)",2411.854,12.0,375,9.9,4.7,2.2,268,10.8/6.6/5.0,2.38,12.65,1.05,False,not in catalogues,TIC_362215490_S40_single.png,REVIEW: changes somewhat with cleaning; manually excluded points inside the dip; thruster firing nearby
+233497870,40,10.9822998,0.98023301,19610,NOTHING,,,2393.309,12.0,441,4.5,3.6,2.2,299,,,,1.02,,,,nothing found
+269661731,40,8.45046043,1.57201004,19610,NOTHING,,,2397.163,20.0,615,7.5,7.1,4.3,538,,,,3.12,,,,nothing found (dip no bigger than the noise bumps)
+232607576,40,9.5992403,2.01656008,19608,NOTHING,,,2408.707,16.0,2894,3.9,4.2,11.8,167,,,,6.89,,,,nothing found
+141533801,40,9.70180035,0.70047098,16478,REVIEW,,unclear in a local measurement (6734 +- 4340 ppm); lopsided (323.5),2399.057,2.1,9879,34.2,18.6,7.6,3,37.9/33.8/29.1,,-0.09,2.64,False,not in catalogues,TIC_141533801_S40_single.png,REVIEW: unclear in a local measurement; lopsided
+75626157,40,10.38160038,1.60698998,19610,NOTHING,,,2410.563,3.0,7330,4.3,3.2,15.0,2,,,,5.43,,,,nothing found
+312989423,40,8.26650047,1.07898998,19605,NOTHING,,,2406.016,12.0,138,4.5,4.0,1.4,247,,,,1.08,,,,nothing found
+346368377,40,11.01369953,0.435716,19610,NOTHING,,,2391.855,24.0,375,5.4,3.4,0.9,12106,,,,1.09,,,,nothing found
+341593234,40,9.69213009,0.97522599,19610,NOTHING,,,2397.536,2.0,660,3.9,5.3,2.7,1,,,,1.38,,,,nothing found
+154092668,40,10.37450027,1.27102995,19611,NOTHING,,,2390.913,3.4,561,3.5,3.3,3.3,4,,,,0.99,,,,nothing found
+459926477,40,8.16460037,14.3458004,19601,NOTHING,,,2410.765,12.0,584,5.8,3.0,37.8,1,,,,2.3,,,,nothing found
+193795598,40,9.61765003,2.40317011,19610,REJECT,"changes with cleaning (SNR 1.2/3.6/2.6 with 1.25/2.5/5-day cleaning, depth ratio 0.20); not in raw SAP flux (raw SAP 49 ppm vs cleaned 178 ppm)",,2391.625,12.0,778,11.5,3.7,7.3,50,1.2/3.6/2.6,0.28,26.04,1.11,False,not in catalogues,TIC_193795598_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux
+348157809,40,10.9392004,4.25655985,19611,REJECT,too variable to search (wiggles 18.3x random noise),,,,,,,,,,,,18.3,,,,REJECT: too variable to search (wiggles 18.3x random noise)
+317730362,40,9.39085007,2.00191998,19601,REJECT,"changes with cleaning (SNR 7.4/4.4/3.3 with 1.667/3.333/6.667-day cleaning, depth ratio 0.79)",borderline SNR (7.6 < 9.0),2409.105,16.0,296,7.6,3.5,3.8,170,7.4/4.4/3.3,1.29,-9.77,1.03,False,not in catalogues,TIC_317730362_S40_single.png,REJECT: changes with cleaning; borderline SNR
+357031563,40,10.40159988,1.44360995,19611,NOTHING,,,2393.041,24.0,384,6.6,3.8,3.1,1103,,,,1.06,,,,nothing found
+365937983,40,9.14840031,4.17480993,19610,NOTHING,,,2396.641,2.3,7461,9.8,6.9,39.3,0,,,,1.36,,,,nothing found (dip no bigger than the noise bumps)
+232633718,40,9.75570011,4.13263988,19549,REJECT,"changes with cleaning (SNR 10.8/4.5/3.7 with 1.25/2.5/5-day cleaning, depth ratio 0.61); not in raw SAP flux (raw SAP 69 ppm vs cleaned 311 ppm)",borderline SNR (8.0 < 9.0),2398.395,12.0,545,8.0,3.5,10.5,17,10.8/4.5/3.7,0.22,-109.48,1.13,False,not in catalogues,TIC_232633718_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; borderline SNR
+154344757,40,4.54212999,56.23789978,19590,NOTHING,,,2397.62,2.0,545,14.9,10.5,143.2,0,,,,1.8,,,,nothing found (dip no bigger than the noise bumps)
+272785392,40,10.75949955,0.66940498,19611,NOTHING,,,2407.289,16.0,319,5.2,4.8,1.3,1520,,,,0.98,,,,nothing found
+229598934,40,9.09029961,2.70970988,19607,NOTHING,,,2403.538,12.0,524,5.5,4.4,6.8,39,,,,1.36,,,,nothing found
+268321095,40,10.25370026,1.11154997,19610,REJECT,"changes with cleaning (SNR 7.3/5.2/3.7 with 1.667/3.333/6.667-day cleaning, depth ratio 0.48); not in raw SAP flux (raw SAP -1902 ppm vs cleaned 2529 ppm)",V-shaped (V fits better by 25),2391.724,16.0,2003,10.8,3.6,5.4,551,7.3/5.2/3.7,-0.75,10.39,1.41,True,VSX type ROT,TIC_268321095_S40_single.png,REJECT: changes with cleaning; not in raw SAP flux; V-shaped
+235677345,40,9.68400002,2.31983995,19369,NOTHING,,,2395.934,30.0,789,6.2,3.3,7.1,834,,,,1.06,,,,nothing found
+75876198,40,10.39649963,1.69979,19609,NOTHING,,,2397.105,24.0,382,5.0,3.6,3.6,795,,,,1.0,,,,nothing found
+112981536,40,5.21836996,3.36108994,19495,NOTHING,,,2408.771,12.0,11171,7.5,4.8,38.8,25,,,,1.49,,,,nothing found
+366561246,40,8.11149025,2.26144004,19596,REJECT,"changes with cleaning (SNR 6.5/4.2/3.4 with 1.667/3.333/6.667-day cleaning, depth ratio 0.68)",borderline SNR (7.7 < 9.0),2402.829,16.0,273,7.7,3.3,4.1,133,6.5/4.2/3.4,0.95,-4.86,1.18,False,not in catalogues,TIC_366561246_S40_single.png,REJECT: changes with cleaning; borderline SNR
+137499202,40,10.62800026,0.80362397,19610,REJECT,"changes with cleaning (SNR 13.3/4.5/3.5 with 2.5/5/10-day cleaning, depth ratio 0.47)",,2400.662,24.0,666,9.2,4.4,2.3,3559,13.3/4.5/3.5,1.14,18.85,1.02,False,not in catalogues,TIC_137499202_S40_single.png,REJECT: changes with cleaning
+150457225,40,11.3998003,1.61898994,19611,NOTHING,,,2399.586,24.0,667,6.3,3.6,4.6,877,,,,1.03,,,,nothing found
+230295593,40,8.0241003,13.60319996,19605,NOTHING,,,2392.291,8.0,1719,4.5,3.2,61.5,0,,,,4.07,,,,nothing found
+269662274,40,11.42329979,1.74284995,19424,NOTHING,,,2402.746,12.0,841,6.0,3.9,5.5,95,,,,1.04,,,,nothing found
+138131958,40,10.72840023,1.24769998,19611,REVIEW,,"changes somewhat with cleaning (SNR 10.0/6.7/5.7 with 2.083/4.167/8.333-day cleaning, depth ratio 0.97)",2401.576,20.0,773,10.0,5.5,3.8,854,10.0/6.7/5.7,0.87,7.49,1.0,False,not in catalogues,TIC_138131958_S40_single.png,REVIEW: changes somewhat with cleaning
+233053435,40,9.95259953,4.35677004,19611,REJECT,"changes with cleaning (SNR 7.2/4.0/3.3 with 1.25/2.5/5-day cleaning, depth ratio 0.72)",borderline SNR (7.8 < 9.0); unclear in a local measurement (94 +- 71 ppm),2394.79,12.0,525,7.8,3.7,10.9,15,7.2/4.0/3.3,,7.93,1.16,False,not in catalogues,TIC_233053435_S40_single.png,REJECT: changes with cleaning; borderline SNR; unclear in a local measurement
+180895304,40,9.09630013,1.63906002,17936,NOTHING,,,2397.23,12.0,235,4.1,3.4,2.7,107,,,,1.09,,,,nothing found
+288160535,40,10.59350014,0.88141298,19606,REJECT,"repeats (2 similar dips: periodic, use step 2)",unclear in a local measurement (4858 +- 6840 ppm),2413.038,1.8,8516,16.5,6.3,8.9,1,16.8/16.4/16.2,,-0.16,2.49,True,not in catalogues,TIC_288160535_S40_single.png,REJECT: repeats; unclear in a local measurement
+233045846,40,11.65769958,1.20567,19610,NOTHING,,,2404.103,3.0,1712,3.4,3.9,5.4,3,,,,1.81,,,,nothing found
+298161386,40,9.0472002,2.00405002,19608,NOTHING,,,2413.788,12.0,417,5.9,3.6,4.5,72,,,,1.06,,,,nothing found

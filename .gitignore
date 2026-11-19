@@ -1,0 +1,16 @@
+# Downloaded light curves and catalogue caches (re-created by the scripts)
+cache/
+followup/ztf/
+*.pkl
+
+# Personal files
+CLAUDE.md
+NOTES.md
+*.pdf
+
+# Python / editor clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.idea/
+.vscode/

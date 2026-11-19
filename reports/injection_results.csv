@@ -1,0 +1,301 @@
+depth_ppm,dur_h,new_hard,new_outcome,new_soft,new_verdict,observable,old_hard,old_outcome,old_soft,old_verdict,tc,tic
+300,16,,NOTHING,,nothing found,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 7.8/4.9/4.6),2407.263,75876198
+5000,2,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2403.799,298649457
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2409.059,346368377
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2407.831,159334198
+2000,16,,NOTHING,,nothing found,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 8.2/4.5/3.2),2407.403,21157570
+5000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2404.043,289535284
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2416.826,417618048
+300,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2395.26,313811128
+5000,4,,REVIEW,"background rises a little (background +147.5 e/s vs dip 61.1 e/s, 3.3 sigma unusual for this star)",REVIEW: background rises a little,True,,CANDIDATE,,PASSES the basic tests,2406.084,137603814
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2391.543,237280575
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2413.014,219465397
+600,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2411.001,198176649
+600,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.789,230082687
+2000,2,,REVIEW,thruster firing nearby (0.42 d from the dip),REVIEW: thruster firing nearby,True,,CANDIDATE,,PASSES the basic tests,2411.642,157521743
+2000,12,"flare next to the dip (brightening of 1208 ppm, 7x the noise)",REJECT,,REJECT: flare next to the dip,True,,CANDIDATE,,PASSES the basic tests,2394.796,441788616
+1000,2,"changes with cleaning (SNR 0.8/1.2/1.5 with 1.25/2.5/5-day cleaning, depth ratio 0.14)",OTHER DIP,borderline SNR (8.7 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,NOTHING,,nothing found,2418.18,367657857
+5000,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2396.334,112981536
+600,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2415.072,235992846
+1000,16,"background rises during the dip (background +229.6 e/s vs dip 7.4 e/s, 5.8 sigma unusual for this star)",REJECT,weaker in raw SAP flux (raw SAP 924 ppm vs cleaned 1595 ppm); V-shaped (V fits better by 17),REJECT: background rises during the dip; weaker in raw SAP flux; V-shaped,True,,CANDIDATE,,PASSES the basic tests,2391.727,198412165
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2396.828,193680799
+3500,16,,,,,False,,,,,2404.786,198355899
+600,12,"changes with cleaning (SNR 12.5/5.4/4.3 with 1.25/2.5/5-day cleaning, depth ratio 0.85); flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,borderline SNR (7.8 < 9.0); V-shaped (V fits better by 30),REJECT: changes with cleaning; flagged points inside the dip; borderline SNR; V-shaped,True,,REVIEW,,SUSPICIOUS: V-shaped; changes with cleaning (SNR 8.3/5.6/5.1),2412.03,298161386
+1000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2399.949,237106030
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found (dip no bigger than the noise bumps),2405.978,230129744
+600,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2413.979,26419217
+2000,12,,REVIEW,too big for a planet (9.0 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2392.639,8270249
+1000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2411.372,312849471
+600,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2415.727,441560890
+3500,4,,REVIEW,too big for a planet (11.1 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2409.242,298405174
+5000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2413.451,193872821
+5000,16,,,,,False,,,,,2405.217,357031563
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2414.06,334312117
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.188,142877884
+600,8,,REVIEW,V-shaped (V fits better by 11),REVIEW: V-shaped,True,,CANDIDATE,,PASSES the basic tests,2394.565,122837104
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2395.141,138474988
+5000,2,,,,,False,,,,,2405.048,18634755
+1000,16,,REVIEW,"borderline SNR (7.6 < 9.0); changes somewhat with cleaning (SNR 9.2/5.4/5.0 with 1.25/2.5/5-day cleaning, depth ratio 0.89)",REVIEW: borderline SNR; changes somewhat with cleaning,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 7.9/5.8/5.2),2415.04,141715513
+1000,4,"not in raw SAP flux (raw SAP 52 ppm vs cleaned 1376 ppm); flare next to the dip (brightening of 1897 ppm, 14x the noise); repeats (2 similar dips: periodic, use step 2)",OTHER DIP,borderline SNR (8.7 < 9.0); too big for a planet (11.4 Jupiters),REJECT: not in raw SAP flux; flare next to the dip; repeats; borderline SNR; too big for a planet,True,,NOTHING,,nothing found,2412.388,288879185
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2407.751,356339299
+2000,12,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,,REJECT: flagged points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2412.371,229598934
+3500,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2395.087,237307750
+5000,2,,REVIEW,too big for a planet (6.4 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2394.859,394030073
+600,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.041,233629643
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2394.272,459926477
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2392.66,193946535
+1000,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2409.786,198213399
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2405.604,270315990
+3500,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2404.267,202280308
+2000,16,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,"same-time dips in some other stars (camera 1 CCD 1: 8 of 26 stars dip in cleaned flux, 3 in raw flux, median raw glitch -626 ppm vs dip 1672)",REJECT: flagged points inside the dip; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2412.388,395019037
+3500,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.328,154340663
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2392.525,75876198
+5000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2396.235,298649457
+1000,16,"flare next to the dip (brightening of 3520 ppm, 7x the noise)",REJECT,"changes somewhat with cleaning (SNR 8.6/7.1/5.7 with 2.5/5/10-day cleaning, depth ratio 0.54); same-time dips in some other stars (camera 1 CCD 3: 5 of 15 stars dip in cleaned flux, 2 in raw flux, median raw glitch -518 ppm vs dip 902)",REJECT: flare next to the dip; changes somewhat with cleaning; same-time dips in some other stars,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 7.9/5.5/4.7),2392.122,346368377
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.65,159334198
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2403.437,21157570
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2391.72,289535284
+2000,8,,REVIEW,"borderline SNR (7.9 < 9.0); changes somewhat with cleaning (SNR 8.6/4.6/5.5 with 1.25/2.5/5-day cleaning, depth ratio 0.82)",REVIEW: borderline SNR; changes somewhat with cleaning,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 5.9/4.7/5.1),2415.626,417618048
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2392.706,313811128
+2000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2399.938,137603814
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.818,237280575
+300,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2407.681,219465397
+5000,8,,REVIEW,manually excluded points inside the dip (2),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2396.457,198176649
+5000,4,,REVIEW,too big for a planet (2.4 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2398.603,230082687
+3500,12,,,,,False,,,,,2404.981,157521743
+5000,16,,REVIEW,manually excluded points inside the dip (1),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2413.236,441788616
+2000,4,,,,,False,,,,,2404.965,367657857
+2000,4,,NOTHING,,nothing found,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 8.0/4.6/3.0),2397.792,112981536
+600,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2405.393,235992846
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2415.131,198412165
+2000,2,,REVIEW,too big for a planet (8.4 Jupiters),REVIEW: too big for a planet,True,,NOTHING,,nothing found,2416.563,193680799
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2416.423,198355899
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.592,298161386
+600,12,,REVIEW,manually excluded points inside the dip (2),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2396.544,237106030
+3500,4,,REVIEW,too big for a planet (21.8 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2403.306,230129744
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2402.455,26419217
+2000,2,,REVIEW,too big for a planet (8.2 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2401.787,8270249
+1000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2399.671,312849471
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2409.474,441560890
+3500,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2402.78,298405174
+2000,12,,REVIEW,"thruster firing nearby (0.44 d from the dip); same-time dips in some other stars (camera 2 CCD 3: 2 of 24 stars dip in cleaned flux, 20 in raw flux, median raw glitch +739 ppm vs dip 1660)",REVIEW: thruster firing nearby; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2396.826,193872821
+1000,12,,REVIEW,"borderline SNR (8.9 < 9.0); changes somewhat with cleaning (SNR 9.8/5.6/6.5 with 1.667/3.333/6.667-day cleaning, depth ratio 0.80)",REVIEW: borderline SNR; changes somewhat with cleaning,True,,CANDIDATE,,PASSES the basic tests,2399.311,357031563
+3500,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2395.75,334312117
+1000,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2412.394,142877884
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2416.886,122837104
+600,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.71,138474988
+1000,12,,,,,False,,,,,2401.063,18634755
+600,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2397.936,141715513
+2000,8,,REVIEW,borderline SNR (8.3 < 9.0); too big for a planet (16.2 Jupiters),REVIEW: borderline SNR; too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet; changes with cleaning (SNR 8.4/6.9/5.8),2394.745,288879185
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2403.865,356339299
+2000,12,,REVIEW,"manually excluded points inside the dip (1); thruster firing nearby (0.30 d from the dip); same-time dips in some other stars (camera 3 CCD 3: 5 of 26 stars dip in cleaned flux, 16 in raw flux, median raw glitch +355 ppm vs dip 1830)",REVIEW: manually excluded points inside the dip; thruster firing nearby; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2411.561,229598934
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.55,237307750
+5000,12,,REVIEW,too big for a planet (6.5 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2415.377,394030073
+300,12,"changes with cleaning (SNR 8.8/2.4/3.0 with 3.125/6.25/12.5-day cleaning, depth ratio 0.42)",OTHER DIP,borderline SNR (8.0 < 9.0); edge of duration range (30 h box); unclear in a local measurement (58 +- 41 ppm),REJECT: changes with cleaning; borderline SNR; edge of duration range; unclear in a local measurement,True,,NOTHING,,nothing found,2395.447,233629643
+1000,16,,NOTHING,,nothing found,True,,REVIEW,,SUSPICIOUS: too big for a planet; changes with cleaning (SNR 7.9/4.9/4.6),2409.383,459926477
+600,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2397.13,193946535
+2000,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2410.448,198213399
+3500,16,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,NOTHING,,nothing found,2418.392,270315990
+1000,8,"changes with cleaning (SNR 10.9/3.4/3.4 with 2.5/5/10-day cleaning, depth ratio 0.82)",OTHER DIP,borderline SNR (8.6 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,NOTHING,,nothing found,2402.095,202280308
+1000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2402.584,395019037
+5000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2400.793,154340663
+1000,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2393.501,75876198
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2401.055,298649457
+5000,12,,REVIEW,"same-time dips in some other stars (camera 1 CCD 3: 5 of 15 stars dip in cleaned flux, 5 in raw flux, median raw glitch -49 ppm vs dip 5027)",REVIEW: same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2400.286,346368377
+1000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2403.611,159334198
+2000,4,,NOTHING,,nothing found,True,,CANDIDATE,,PASSES the basic tests,2410.364,21157570
+1000,4,"changes with cleaning (SNR 13.0/4.6/3.2 with 2.083/4.167/8.333-day cleaning, depth ratio 0.55)",OTHER DIP,borderline SNR (8.7 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 8.8/5.3/4.9),2401.558,289535284
+2000,16,,,,,False,,,,,2405.233,417618048
+1000,4,,REVIEW,borderline SNR (8.0 < 9.0),REVIEW: borderline SNR,True,,CANDIDATE,,PASSES the basic tests,2399.111,313811128
+5000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2417.468,137603814
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2394.067,237280575
+2000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2416.304,219465397
+600,8,"changes with cleaning (SNR 11.4/4.8/4.2 with 1.25/2.5/5-day cleaning, depth ratio 0.66); same-time dips in other stars: spacecraft (camera 3 CCD 1: 2 of 29 stars dip in cleaned flux, 25 in raw flux, median raw glitch +883 ppm vs dip 482)",REJECT,borderline SNR (7.6 < 9.0); manually excluded points inside the dip (3); thruster firing nearby (0.15 d from the dip),REJECT: changes with cleaning; same-time dips in other stars; borderline SNR; manually excluded points inside the dip; thruster firing nearby,True,,NOTHING,,nothing found,2397.262,198176649
+3500,2,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2415.141,230082687
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2393.276,157521743
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2398.458,441788616
+3500,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.954,367657857
+5000,12,,NOTHING,,nothing found,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 7.9/4.5/2.9),2395.968,112981536
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2411.812,235992846
+1000,12,"changes with cleaning (SNR 11.5/3.1/3.1 with 1.667/3.333/6.667-day cleaning, depth ratio 0.45); not in raw SAP flux (raw SAP -42 ppm vs cleaned 630 ppm); background rises during the dip (background +229.6 e/s vs dip 3.8 e/s, 5.8 sigma unusual for this star)",OTHER DIP,borderline SNR (8.5 < 9.0),REJECT: changes with cleaning; not in raw SAP flux; background rises during the dip; borderline SNR,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 8.0/6.2/5.8),2413.58,198412165
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2414.404,193680799
+3500,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2409.611,198355899
+2000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2417.062,298161386
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2402.156,237106030
+3500,2,,REVIEW,thruster firing nearby (0.41 d from the dip); too big for a planet (21.2 Jupiters),REVIEW: thruster firing nearby; too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2405.764,230129744
+600,2,,,,,False,,,,,2405.163,26419217
+1000,12,,,,,False,,,,,2404.609,8270249
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2399.977,312849471
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2398.652,441560890
+3500,2,,REVIEW,too big for a planet (12.3 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2413.027,298405174
+1000,12,,REVIEW,"changes somewhat with cleaning (SNR 8.5/6.4/5.8 with 1.875/3.75/7.5-day cleaning, depth ratio 0.79); weaker in raw SAP flux (raw SAP 525 ppm vs cleaned 842 ppm)",REVIEW: changes somewhat with cleaning; weaker in raw SAP flux,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 8.0/5.5/5.9),2396.016,193872821
+5000,12,,REVIEW,"same-time dips in some other stars (camera 2 CCD 2: 12 of 29 stars dip in cleaned flux, 10 in raw flux, median raw glitch +162 ppm vs dip 4204)",REVIEW: same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2415.665,357031563
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2399.558,334312117
+1000,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2391.416,142877884
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.4,122837104
+2000,8,,REVIEW,thruster firing nearby (0.40 d from the dip); too big for a planet (3.0 Jupiters),REVIEW: thruster firing nearby; too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2398.142,138474988
+2000,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2407.742,18634755
+3500,2,,REVIEW,thruster firing nearby (0.42 d from the dip),REVIEW: thruster firing nearby,True,,REVIEW,,SUSPICIOUS: V-shaped,2397.089,141715513
+300,4,"not in raw SAP flux (raw SAP 52 ppm vs cleaned 1376 ppm); flare next to the dip (brightening of 1897 ppm, 14x the noise)",OTHER DIP,borderline SNR (8.8 < 9.0); too big for a planet (11.4 Jupiters),REJECT: not in raw SAP flux; flare next to the dip; borderline SNR; too big for a planet,True,,NOTHING,,nothing found,2398.255,288879185
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2394.314,356339299
+5000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2391.271,229598934
+600,12,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 8.6/5.6/4.4),2418.396,237307750
+600,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2402.483,394030073
+1000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2416.22,233629643
+3500,8,,REVIEW,too big for a planet (6.7 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2408.11,459926477
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2392.148,193946535
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2410.537,198213399
+5000,4,,REVIEW,too big for a planet (13.9 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2416.848,270315990
+600,4,"changes with cleaning (SNR 13.3/3.6/4.0 with 2.5/5/10-day cleaning, depth ratio 0.86)",REJECT,,REJECT: changes with cleaning,True,,NOTHING,,nothing found,2417.7,202280308
+3500,16,,REVIEW,thruster firing nearby (0.28 d from the dip),REVIEW: thruster firing nearby,True,,CANDIDATE,,PASSES the basic tests,2398.185,395019037
+1000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2395.95,154340663
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2416.686,75876198
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2408.306,298649457
+5000,4,,REVIEW,thruster firing nearby (0.20 d from the dip); V-shaped (V fits better by 22),REVIEW: thruster firing nearby; V-shaped,True,,REVIEW,,SUSPICIOUS: V-shaped,2405.615,346368377
+2000,12,,REVIEW,manually excluded points inside the dip (2),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2396.634,159334198
+300,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2403.258,21157570
+300,8,"changes with cleaning (SNR 13.4/4.8/3.2 with 2.083/4.167/8.333-day cleaning, depth ratio 0.55)",OTHER DIP,borderline SNR (8.8 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,NOTHING,,nothing found,2409.502,289535284
+3500,8,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2398.418,417618048
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2413.138,313811128
+600,16,,CANDIDATE,,CANDIDATE,True,,NOTHING,,nothing found,2418.399,137603814
+600,16,"background rises during the dip (background +685.4 e/s vs dip 33.3 e/s, 4.9 sigma unusual for this star)",REJECT,"same-time dips in some other stars (camera 3 CCD 3: 8 of 25 stars dip in cleaned flux, 6 in raw flux, median raw glitch -51 ppm vs dip 597)",REJECT: background rises during the dip; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2391.972,237280575
+1000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2391.461,219465397
+2000,16,,,,,False,,,,,2404.909,198176649
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2417.947,230082687
+1000,4,,,,,False,,,,,2405.149,157521743
+5000,12,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,,REJECT: flagged points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2397.733,441788616
+600,8,"changes with cleaning (SNR 3.7/0.7/0.7 with 1.25/2.5/5-day cleaning, depth ratio 0.45); repeats (2 similar dips: periodic, use step 2)",OTHER DIP,borderline SNR (8.1 < 9.0),REJECT: changes with cleaning; repeats; borderline SNR,True,,NOTHING,,nothing found,2403.29,367657857
+1000,16,,NOTHING,,nothing found,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 8.2/4.6/3.0),2409.127,112981536
+1000,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.895,235992846
+2000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2409.074,198412165
+3500,8,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,REVIEW,,SUSPICIOUS: too big for a planet; repeats (2 similar dips): use step 2,2406.022,193680799
+3500,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.483,198355899
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2417.733,298161386
+1000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2399.447,237106030
+1000,2,,REVIEW,too big for a planet (11.2 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: V-shaped; too big for a planet,2396.893,230129744
+3500,16,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,"same-time dips in some other stars (camera 2 CCD 4: 3 of 21 stars dip in cleaned flux, 18 in raw flux, median raw glitch +1517 ppm vs dip 2328); V-shaped (V fits better by 137)",REJECT: flagged points inside the dip; same-time dips in some other stars; V-shaped,True,,CANDIDATE,,PASSES the basic tests,2397.291,26419217
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2396.44,8270249
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2415.291,312849471
+600,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2411.066,441560890
+2000,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2394.814,298405174
+3500,12,,REVIEW,V-shaped (V fits better by 68),REVIEW: V-shaped,True,,CANDIDATE,,PASSES the basic tests,2418.264,193872821
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2418.055,357031563
+2000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2414.316,334312117
+300,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2391.345,142877884
+600,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2408.218,122837104
+1000,4,,REVIEW,borderline SNR (8.2 < 9.0); too big for a planet (2.2 Jupiters),REVIEW: borderline SNR; too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2415.235,138474988
+300,2,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2402.845,18634755
+600,12,"changes with cleaning (SNR 7.0/4.6/2.6 with 1.667/3.333/6.667-day cleaning, depth ratio 0.71)",OTHER DIP,borderline SNR (8.0 < 9.0); weaker in raw SAP flux (raw SAP 185 ppm vs cleaned 430 ppm),REJECT: changes with cleaning; borderline SNR; weaker in raw SAP flux,True,,NOTHING,,nothing found,2392.479,141715513
+3500,8,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,REVIEW,,SUSPICIOUS: too big for a planet,2409.317,288879185
+600,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2401.467,356339299
+2000,12,,,,,False,,,,,2404.917,229598934
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.751,237307750
+3500,12,"flare next to the dip (brightening of 2324 ppm, 15x the noise)",REJECT,lopsided (6.5); too big for a planet (5.2 Jupiters),REJECT: flare next to the dip; lopsided; too big for a planet,True,,REVIEW,,SUSPICIOUS: lopsided (7.7); too big for a planet,2407.479,394030073
+2000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2410.072,233629643
+3500,16,,REVIEW,too big for a planet (8.0 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2392.2,459926477
+5000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2396.071,193946535
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2398.379,198213399
+2000,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2391.056,270315990
+5000,16,,,,,False,,,,,2401.001,202280308
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2400.035,395019037
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2418.134,154340663
+2000,8,,REVIEW,V-shaped (V fits better by 21),REVIEW: V-shaped,True,,CANDIDATE,,PASSES the basic tests,2399.886,75876198
+3500,16,,REVIEW,"same-time dips in some other stars (camera 2 CCD 2: 9 of 29 stars dip in cleaned flux, 8 in raw flux, median raw glitch -27 ppm vs dip 3065)",REVIEW: same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2391.906,298649457
+1000,8,"changes with cleaning (SNR 7.8/4.2/4.1 with 1.25/2.5/5-day cleaning, depth ratio 0.90)",REJECT,borderline SNR (7.8 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 7.6/4.9/3.8),2415.311,346368377
+600,4,"changes with cleaning (SNR 11.1/4.8/3.8 with 1.25/2.5/5-day cleaning, depth ratio 0.80)",REJECT,"borderline SNR (7.9 < 9.0); thruster firing nearby (0.46 d from the dip); same-time dips in some other stars (camera 3 CCD 4: 4 of 23 stars dip in cleaned flux, 12 in raw flux, median raw glitch +381 ppm vs dip 317)",REJECT: changes with cleaning; borderline SNR; thruster firing nearby; same-time dips in some other stars,True,,NOTHING,,nothing found,2396.965,159334198
+5000,8,,,,,False,,,,,2396.006,21157570
+300,4,"changes with cleaning (SNR 13.2/4.5/3.2 with 2.083/4.167/8.333-day cleaning, depth ratio 0.55)",OTHER DIP,borderline SNR (8.8 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,NOTHING,,nothing found,2400.206,289535284
+5000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.267,417618048
+3500,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2398.655,313811128
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2409.057,137603814
+1000,8,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,weaker in raw SAP flux (raw SAP 564 ppm vs cleaned 877 ppm); V-shaped (V fits better by 36),REJECT: flagged points inside the dip; weaker in raw SAP flux; V-shaped,True,,REVIEW,,SUSPICIOUS: V-shaped,2397.802,237280575
+2000,2,,REVIEW,thruster firing nearby (0.22 d from the dip),REVIEW: thruster firing nearby,True,,REVIEW,,SUSPICIOUS: V-shaped,2412.376,219465397
+600,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.461,198176649
+2000,8,,REVIEW,manually excluded points inside the dip (1),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2413.503,230082687
+3500,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2394.927,157521743
+600,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2407.148,441788616
+3500,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2401.825,367657857
+5000,16,"changes with cleaning (SNR 8.1/4.3/3.4 with 1.25/2.5/5-day cleaning, depth ratio 0.85); not in raw SAP flux (raw SAP 820 ppm vs cleaned 6909 ppm)",OTHER DIP,borderline SNR (7.8 < 9.0); too big for a planet (3.5 Jupiters),REJECT: changes with cleaning; not in raw SAP flux; borderline SNR; too big for a planet,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 8.4/4.5/2.9),2399.227,112981536
+1000,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.331,235992846
+1000,16,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,CANDIDATE,,PASSES the basic tests,2393.286,198412165
+2000,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.386,193680799
+5000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2414.504,198355899
+2000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2395.237,298161386
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2415.593,237106030
+3500,8,,REVIEW,thruster firing nearby (0.43 d from the dip); too big for a planet (19.0 Jupiters),REVIEW: thruster firing nearby; too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2412.593,230129744
+1000,8,,,,,False,,,,,2407.42,26419217
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2412.053,8270249
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2410.841,312849471
+2000,16,,,,,False,,,,,2404.59,441560890
+300,16,"changes with cleaning (SNR 7.8/3.9/2.9 with 1.25/2.5/5-day cleaning, depth ratio 0.70); flare next to the dip (brightening of 1643 ppm, 10x the noise)",OTHER DIP,borderline SNR (7.9 < 9.0); V-shaped (V fits better by 12); too big for a planet (11.4 Jupiters),REJECT: changes with cleaning; flare next to the dip; borderline SNR; V-shaped; too big for a planet,True,,NOTHING,,nothing found,2398.801,298405174
+1000,2,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,OTHER DIP,,SUSPICIOUS: changes with cleaning (SNR 8.1/4.8/3.9),2408.032,193872821
+1000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2394.95,357031563
+5000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2414.001,334312117
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2410.685,142877884
+2000,2,,,,,False,,,,,2405.114,122837104
+5000,4,,REVIEW,too big for a planet (4.9 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2402.798,138474988
+5000,8,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2410.305,18634755
+2000,12,,,,,False,,,,,2404.903,141715513
+600,12,"not in raw SAP flux (raw SAP 52 ppm vs cleaned 1376 ppm); flare next to the dip (brightening of 1897 ppm, 14x the noise)",OTHER DIP,borderline SNR (8.9 < 9.0); too big for a planet (11.4 Jupiters),REJECT: not in raw SAP flux; flare next to the dip; borderline SNR; too big for a planet,True,,NOTHING,,nothing found,2416.069,288879185
+3500,8,,REVIEW,"manually excluded points inside the dip (1); thruster firing nearby (0.22 d from the dip); same-time dips in some other stars (camera 2 CCD 2: 9 of 29 stars dip in cleaned flux, 11 in raw flux, median raw glitch +297 ppm vs dip 3778)",REVIEW: manually excluded points inside the dip; thruster firing nearby; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2411.734,356339299
+1000,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2406.643,229598934
+1000,12,,REVIEW,manually excluded points inside the dip (1),REVIEW: manually excluded points inside the dip,True,,CANDIDATE,,PASSES the basic tests,2413.389,237307750
+5000,2,,REVIEW,too big for a planet (6.5 Jupiters),REVIEW: too big for a planet,True,,REVIEW,,SUSPICIOUS: too big for a planet,2391.396,394030073
+1000,16,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2409.901,233629643
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2412.975,459926477
+600,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2410.584,193946535
+2000,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.341,198213399
+2000,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.699,270315990
+5000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.299,202280308
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2392.112,395019037
+5000,8,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2408.535,154340663
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.439,75876198
+5000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2401.35,298649457
+1000,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2403.416,346368377
+3500,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2392.354,159334198
+1000,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2391.477,21157570
+3500,12,,REVIEW,thruster firing nearby (0.17 d from the dip),REVIEW: thruster firing nearby,True,,CANDIDATE,,PASSES the basic tests,2405.618,289535284
+2000,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2397.701,417618048
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2398.237,313811128
+5000,2,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2403.563,137603814
+1000,2,,REVIEW,borderline SNR (8.5 < 9.0),REVIEW: borderline SNR,True,,CANDIDATE,,PASSES the basic tests,2392.888,237280575
+5000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2416.689,219465397
+300,12,"changes with cleaning (SNR -1.3/2.6/2.9 with 2.083/4.167/8.333-day cleaning, depth ratio -0.19)",OTHER DIP,,REJECT: changes with cleaning,True,,NOTHING,,nothing found,2415.734,198176649
+300,16,,REVIEW,"borderline SNR (8.7 < 9.0); changes somewhat with cleaning (SNR 11.3/5.2/4.9 with 2.5/5/10-day cleaning, depth ratio 0.72); weaker in raw SAP flux (raw SAP 118 ppm vs cleaned 278 ppm)",REVIEW: borderline SNR; changes somewhat with cleaning; weaker in raw SAP flux,True,,NOTHING,,nothing found,2393.49,230082687
+2000,16,,REVIEW,"thruster firing nearby (0.13 d from the dip); same-time dips in some other stars (camera 2 CCD 3: 8 of 24 stars dip in cleaned flux, 3 in raw flux, median raw glitch -66 ppm vs dip 1014)",REVIEW: thruster firing nearby; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2405.473,157521743
+600,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2411.535,441788616
+600,2,"changes with cleaning (SNR 0.8/1.1/1.6 with 1.25/2.5/5-day cleaning, depth ratio 0.14)",OTHER DIP,borderline SNR (8.7 < 9.0),REJECT: changes with cleaning; borderline SNR,True,,NOTHING,,nothing found,2404.03,367657857
+600,16,"changes with cleaning (SNR 11.2/3.8/3.0 with 1.25/2.5/5-day cleaning, depth ratio 0.57); not in raw SAP flux (raw SAP 609 ppm vs cleaned 3972 ppm); V-shaped and deep (1.13%): eclipsing binary?",OTHER DIP,borderline SNR (7.8 < 9.0); too big for a planet (3.5 Jupiters),REJECT: changes with cleaning; not in raw SAP flux; V-shaped and deep; borderline SNR; too big for a planet,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 8.4/4.7/3.0),2413.292,112981536
+2000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2414.306,235992846
+600,4,"changes with cleaning (SNR 12.9/3.6/3.7 with 1.667/3.333/6.667-day cleaning, depth ratio 0.45); not in raw SAP flux (raw SAP -42 ppm vs cleaned 630 ppm); background rises during the dip (background +229.6 e/s vs dip 3.8 e/s, 5.8 sigma unusual for this star)",OTHER DIP,,REJECT: changes with cleaning; not in raw SAP flux; background rises during the dip,True,,NOTHING,,nothing found,2397.434,198412165
+600,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2411.833,193680799
+5000,12,"flagged points inside the dip (7: coarse point, manual exclude, thruster firing)",REJECT,"same-time dips in some other stars (camera 2 CCD 2: 4 of 29 stars dip in cleaned flux, 25 in raw flux, median raw glitch +782 ppm vs dip 4037)",REJECT: flagged points inside the dip; same-time dips in some other stars,True,,CANDIDATE,,PASSES the basic tests,2397.323,198355899
+1000,16,,REVIEW,"changes somewhat with cleaning (SNR 13.6/6.5/5.9 with 1.25/2.5/5-day cleaning, depth ratio 0.97)",REVIEW: changes somewhat with cleaning,True,,CANDIDATE,,PASSES the basic tests,2408.89,298161386
+600,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2403.658,237106030
+300,8,,NOTHING,,nothing found,True,,OTHER DIP,,SUSPICIOUS: V-shaped; too big for a planet; changes with cleaning (SNR 8.5/4.6/3.3),2414.29,230129744
+1000,4,,,,,False,,,,,2393.073,26419217
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2416.086,8270249
+3500,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2398.88,312849471
+300,12,,,,,False,,,,,2392.24,441560890
+1000,4,"changes with cleaning (SNR 7.7/4.0/3.0 with 1.25/2.5/5-day cleaning, depth ratio 0.70); flare next to the dip (brightening of 1643 ppm, 10x the noise)",OTHER DIP,borderline SNR (8.0 < 9.0); V-shaped (V fits better by 12); too big for a planet (11.4 Jupiters),REJECT: changes with cleaning; flare next to the dip; borderline SNR; V-shaped; too big for a planet,True,,NOTHING,,nothing found,2408.423,298405174
+600,4,,NOTHING,,nothing found (dip no bigger than the noise bumps),True,,OTHER DIP,,SUSPICIOUS: changes with cleaning (SNR 7.7/4.4/3.6),2396.428,193872821
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2407.507,357031563
+3500,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2401.191,334312117
+300,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.933,142877884
+1000,8,,REVIEW,V-shaped (V fits better by 62),REVIEW: V-shaped,True,,CANDIDATE,,PASSES the basic tests,2410.08,122837104
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2408.095,138474988
+3500,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2394.64,18634755
+3500,8,,REVIEW,borderline SNR (7.8 < 9.0); weaker in raw SAP flux (raw SAP 1469 ppm vs cleaned 2099 ppm),REVIEW: borderline SNR; weaker in raw SAP flux,True,,OTHER DIP,,SUSPICIOUS: changes with cleaning (SNR 3.7/-1.4/-3.2),2404.265,141715513
+300,16,"not in raw SAP flux (raw SAP 52 ppm vs cleaned 1376 ppm); flare next to the dip (brightening of 1897 ppm, 14x the noise)",OTHER DIP,borderline SNR (8.9 < 9.0); too big for a planet (11.4 Jupiters),REJECT: not in raw SAP flux; flare next to the dip; borderline SNR; too big for a planet,True,,NOTHING,,nothing found,2404.364,288879185
+300,4,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2417.796,356339299
+1000,2,,REVIEW,borderline SNR (7.6 < 9.0),REVIEW: borderline SNR,True,,NOTHING,,nothing found,2393.699,229598934
+5000,2,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2396.961,237307750
+300,8,,,,,False,,,,,2404.466,394030073
+2000,12,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2410.519,233629643
+300,16,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2398.832,459926477
+5000,8,,REVIEW,"same-time dips in some other stars (camera 2 CCD 3: 2 of 24 stars dip in cleaned flux, 12 in raw flux, median raw glitch +201 ppm vs dip 2867)",REVIEW: same-time dips in some other stars,True,,REVIEW,,SUSPICIOUS: V-shaped,2403.814,193946535
+300,12,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2412.127,198213399
+300,8,,NOTHING,,nothing found,True,,NOTHING,,nothing found,2418.37,270315990
+3500,2,,CANDIDATE,,CANDIDATE,True,,REVIEW,,SUSPICIOUS: V-shaped,2406.105,202280308
+600,8,,REVIEW,"changes somewhat with cleaning (SNR 12.0/6.6/5.2 with 1.25/2.5/5-day cleaning, depth ratio 0.88)",REVIEW: changes somewhat with cleaning,True,,REVIEW,,SUSPICIOUS: changes with cleaning (SNR 9.9/7.0/5.9),2399.559,395019037
+2000,4,,CANDIDATE,,CANDIDATE,True,,CANDIDATE,,PASSES the basic tests,2393.32,154340663
