@@ -11,7 +11,7 @@ Faaz Abdulla Kizhisseri, BSc (Research) student, Indian Institute of Science, Be
   Detached (EA type), period **5.459621 ± 0.000040 d**, eclipses ~7 h long, secondary at phase 0.50.
   First noticed as a diluted signal in the TESS sector 40 light curve of a neighbouring star (TIC 41602482),
   then confirmed in public ZTF g and r data (2018–2025), including a position-shift test showing which of two
-  blended stars is the one eclipsing. **Accepted into the AAVSO Variable Star Index (VSX) on 21 Nov 2026 (submitted 14 Nov 2026), with Faaz Abdulla Kizhisseri credited as discoverer.**
+  blended stars is the one eclipsing. **Submitted to the AAVSO Variable Star Index (VSX) on 14 Nov 2026; awaiting moderator review.**
   Evidence: [`followup/`](followup/) (folds, periodogram, half-data check, submission draft).
 - **Watch list: TIC 138131958**, a single 20-hour, ~770 ppm dip in sector 40. Not a spacecraft artefact; the
   pixel test is unclear. If a dip in sector 79 is the same object, the period would be ~1077 d and the next
